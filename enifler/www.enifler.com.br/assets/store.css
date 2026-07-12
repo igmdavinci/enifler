@@ -73,11 +73,19 @@ h1 { max-width: 760px; margin: 0; font-size: clamp(38px, 6vw, 68px); line-height
 .card:hover { transform: translateY(-4px); box-shadow: var(--shadow); }
 .card-media { position: relative; aspect-ratio: 1.1; padding: 18px; background: #fff; }
 .card-media img { width: 100%; height: 100%; object-fit: contain; }
-.tag { position: absolute; top: 14px; left: 14px; padding: 7px 9px; border-radius: 6px; color: #fff; background: var(--green); font-size: 10px; font-weight: 800; }
+.tag { position: absolute; top: 14px; left: 14px; z-index: 1; padding: 7px 9px; border-radius: 6px; color: #fff; background: var(--green); font-size: 10px; font-weight: 800; }
+.discount-tag { padding: 8px 11px; border-radius: 999px; background: #e84b16; box-shadow: 0 5px 14px rgba(210, 62, 15, .28); font-size: 12px; letter-spacing: .02em; }
+.card-promotion { border-color: #ffc5a8; box-shadow: 0 7px 22px rgba(235, 102, 25, .1); }
+.card-promotion:hover { border-color: #ff7a3c; }
 .card-body { display: flex; flex: 1; flex-direction: column; padding: 18px; border-top: 1px solid #f1f2f4; }
 .card-name { min-height: 56px; margin: 0; overflow: hidden; font-size: 14px; line-height: 1.4; }
 .price-label { margin-top: 17px; color: var(--muted); font-size: 11px; }
-.old-price { margin: 4px 0 -1px; color: #8d949d; font-size: 12px; text-decoration: line-through; }
+.promotion-copy { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 15px; color: #bd3b10; font-size: 11px; font-weight: 750; }
+.promotion-copy strong { padding: 4px 6px; border-radius: 5px; background: #fff0e8; color: #c9430d; font-size: 10px; white-space: nowrap; }
+.price-before { display: flex; align-items: baseline; gap: 5px; margin-top: 7px; color: #747b84; font-size: 12px; }
+.price-before del { color: #747b84; font-weight: 650; }
+.price-now { display: flex; align-items: baseline; gap: 5px; margin-top: 1px; }
+.price-now > span { color: #4d555e; font-size: 12px; font-weight: 700; }
 .price { margin: 3px 0 2px; color: var(--orange); font-size: 24px; font-weight: 850; letter-spacing: -.03em; }
 .installment { color: var(--muted); font-size: 11px; }
 .btn {
@@ -698,6 +706,10 @@ body[data-page="home"] { color: #f4f4f5; background: #111315; }
 .home-featured .price-label,
 .home-featured .installment { color: #888e95; }
 .home-featured .price { color: #0db55a; }
+.home-featured .price-before,
+.home-featured .price-before del,
+.home-featured .price-now > span { color: #aeb4ba; }
+.home-featured .promotion-copy { color: #ff9e70; }
 .legacy-collection { padding: 24px 0 75px; background: #111315; }
 .legacy-breadcrumb { display: flex; gap: 9px; margin-bottom: 18px; color: #737980; font-size: 10px; }
 .legacy-breadcrumb a:hover { color: var(--orange); }
@@ -749,10 +761,15 @@ body[data-page="catalog"] .card {
 body[data-page="catalog"] .card:hover { border-color: var(--orange); box-shadow: 0 0 45px rgba(255,113,0,.08); }
 body[data-page="catalog"] .card-media { aspect-ratio: 1.12; margin: 10px; border-radius: 7px; background: #fff; }
 body[data-page="catalog"] .tag { border-radius: 4px; background: var(--orange); }
+body[data-page="catalog"] .discount-tag { border-radius: 999px; background: #e84b16; }
+body[data-page="catalog"] .card-promotion { border-color: #8f482a; }
 body[data-page="catalog"] .card-body { border-top: 0; padding: 12px 17px 18px; }
 body[data-page="catalog"] .card-name { color: #f0f1f2; font-size: 11px; font-weight: 500; }
 body[data-page="catalog"] .price-label, body[data-page="catalog"] .installment { color: #888e95; }
-body[data-page="catalog"] .old-price { color: #858a90; text-decoration-color: #b73535; }
+body[data-page="catalog"] .price-before,
+body[data-page="catalog"] .price-before del,
+body[data-page="catalog"] .price-now > span { color: #aeb4ba; }
+body[data-page="catalog"] .promotion-copy { color: #ff9e70; }
 body[data-page="catalog"] .price { color: #0db55a; font-size: 21px; }
 body[data-page="catalog"] .btn { border-radius: 5px; }
 body[data-page="catalog"] .empty-search { color: #90969d; }

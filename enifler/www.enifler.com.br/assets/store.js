@@ -1066,17 +1066,26 @@ function setupGlobalUi() {
 
 function productCard(product) {
   const hasPromotion = product.promoPercent > 0 && product.realPrice > product.price;
+  const discountValue = Math.max(0, product.realPrice - product.price);
+  const promotionLabel = Number.isInteger(Number(product.promoPercent))
+    ? Number(product.promoPercent).toFixed(0)
+    : Number(product.promoPercent).toFixed(1).replace(".", ",");
   return `
-    <article class="card">
+    <article class="card${hasPromotion ? " card-promotion" : ""}">
       <div class="card-media">
-        <span class="tag">15% OFF NO PIX</span>
+        <span class="tag${hasPromotion ? " discount-tag" : ""}">${hasPromotion ? `${promotionLabel}% OFF` : "PAGUE NO PIX"}</span>
         <img src="${product.image}" alt="${product.name}" loading="lazy">
       </div>
       <div class="card-body">
         <h3 class="card-name">${product.name}</h3>
-        <span class="price-label">${hasPromotion ? `${product.promoPercent}% de desconto promocional` : "preço no PIX"}</span>
-        ${hasPromotion ? `<span class="old-price">${money.format(product.realPrice)}</span>` : ""}
-        <strong class="price">${money.format(product.price)}</strong>
+        ${hasPromotion ? `
+          <div class="promotion-copy"><span>Oferta especial</span><strong>Economize ${money.format(discountValue)}</strong></div>
+          <div class="price-before"><span>De:</span><del>${money.format(product.realPrice)}</del></div>
+          <div class="price-now"><span>Por:</span><strong class="price">${money.format(product.price)}</strong></div>
+        ` : `
+          <span class="price-label">preço no PIX</span>
+          <strong class="price">${money.format(product.price)}</strong>
+        `}
         <span class="installment">ou em até 12x no cartão</span>
         <button class="btn add" data-id="${product.id}" type="button">ADICIONAR AO CARRINHO</button>
       </div>
