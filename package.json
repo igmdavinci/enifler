@@ -1,0 +1,15 @@
+{
+  "name": "enifler-loja-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Loja Enifler local com carrinho, login, cadastro, checkout e painel admin.",
+  "scripts": {
+    "start": "node scripts/start-local.js",
+    "dev": "node scripts/start-local.js",
+    "db:init": "node scripts/db-init.js",
+    "check": "node scripts/check-local.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

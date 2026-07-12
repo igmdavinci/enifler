@@ -1,0 +1,5222 @@
+[
+  {
+    "id": "5805519",
+    "name": "PC Gamer Completo Ryzen 5 5600G, 16GB DDR4, SSD 480GB, 500W 80 Plus, 6UCY5D2A-E",
+    "price": 3433.41,
+    "image": "assets/products/old/5805519.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5805518",
+    "name": "PC Gamer Completo Ryzen 5 5600G, 16GB DDR4, SSD 480GB, 500W 80 Plus, K4DM83MJ-E",
+    "price": 3423.12,
+    "image": "assets/products/old/5805518.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5805515",
+    "name": "PC Gamer Completo Ryzen 5 4600G, 16GB DDR4, SSD 480GB, 400W 80 Plus, 8CMAOJEG-E",
+    "price": 3571.53,
+    "image": "assets/products/old/5805515.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5805507",
+    "name": "PC Gamer Ryzen 5 5600G, 16GB DDR4, SSD 480GB, 500W 80 Plus, D4XJYMIK-E",
+    "price": 2949.5,
+    "image": "assets/products/old/5805507.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5805506",
+    "name": "PC Gamer Ryzen 5 5600G, 16GB DDR4, SSD 480GB, 500W 80 Plus, K17YCP2E-E",
+    "price": 2939.22,
+    "image": "assets/products/old/5805506.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5805502",
+    "name": "PC Gamer Ryzen 5 4600G, 16GB DDR4, SSD 480GB, 400W 80 Plus, QEPF4Q9K-E",
+    "price": 3077.34,
+    "image": "assets/products/old/5805502.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "7613793",
+    "name": "PC Gamer Ryzen 5 5500, RTX 3060, 16GB DDR4, SSD 480GB, 600W 80 Plus, LBN197R8G-E",
+    "price": 5365.97,
+    "image": "assets/products/old/7613793.jpg",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "7613791",
+    "name": "PC Gamer Ryzen 5 5500, RTX 3060, 16GB DDR4, SSD 480GB, 600W 80 Plus, LBN197R8F-E",
+    "price": 5378.21,
+    "image": "assets/products/old/7613791.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "7613779",
+    "name": "PC Gamer Completo Ryzen 5 5500, RTX 3060, 16GB DDR4, SSD 480GB, 600W 80 Plus, GDYN4MEAF-E",
+    "price": 5862.11,
+    "image": "assets/products/old/7613779.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "7613770",
+    "name": "PC Gamer Completo Ryzen 5 5500, RTX 3060, 16GB DDR4, SSD 480GB, 600W 80 Plus, GDYN4MEAE-E",
+    "price": 5849.87,
+    "image": "assets/products/old/7613770.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "7613713",
+    "name": "PC Gamer Completo Ryzen 5 5500, RTX 3060, 16GB DDR4, SSD 480GB, 600W 80 Plus, GDYN4MEAB-E",
+    "price": 5901.04,
+    "image": "assets/products/old/7613713.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "7613696",
+    "name": "PC Gamer Completo Ryzen 5 5500, RTX 3060, 16GB DDR4, SSD 480GB, 600W 80 Plus, GDYN4MEAA-E",
+    "price": 5896.96,
+    "image": "assets/products/old/7613696.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "7613685",
+    "name": "PC Gamer Ryzen 5 5500, RTX 3060, 16GB DDR4, SSD 480GB, 600W 80 Plus, LBN197R8B-E",
+    "price": 5417.14,
+    "image": "assets/products/old/7613685.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "7613657",
+    "name": "PC Gamer Ryzen 5 5500, RTX 3060, 16GB DDR4, SSD 480GB, 600W 80 Plus, LBN197R8A-E",
+    "price": 5412.97,
+    "image": "assets/products/old/7613657.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "6146935",
+    "name": "PC Gamer Ryzen 5 5600GT, 16GB DDR4, SSD 480GB, 500W 80 Plus, QU3ZAO46-E",
+    "price": 3042.58,
+    "image": "assets/products/old/6146935.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "6135185",
+    "name": "PC Gamer Ryzen 5 5600GT, 16GB DDR4, SSD 480GB, 500W 80 Plus, PCGT10-E",
+    "price": 2939.22,
+    "image": "assets/products/old/6135185.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "6085471",
+    "name": "PC Gamer Ryzen 5 5600, RTX 4060, 16GB RGB DDR4, SSD NVMe 500GB, 600W 80 Plus, AQUA017-E",
+    "price": 5785.44,
+    "image": "assets/products/old/6085471.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "6039074",
+    "name": "PC Gamer Completo Ryzen 5 4500, RTX 3050, 16GB DDR4, SSD 480GB, 600W 80 Plus, AQUA008-E",
+    "price": 4700.93,
+    "image": "assets/products/old/6039074.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "6039073",
+    "name": "PC Gamer Ryzen 5 4500, RTX 3050, 16GB DDR4, SSD 480GB, 600W 80 Plus, AQUA009-E",
+    "price": 4217.02,
+    "image": "assets/products/old/6039073.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "6039072",
+    "name": "PC Gamer Completo Ryzen 5 4500, RTX 3050, 16GB DDR4, SSD 480GB, 600W 80 Plus, AQUA010-E",
+    "price": 4711.21,
+    "image": "assets/products/old/6039072.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "6039071",
+    "name": "PC Gamer Ryzen 5 4500, RTX 3050, 16GB DDR4, SSD 480GB, 600W 80 Plus, AQUA011-E",
+    "price": 4227.31,
+    "image": "assets/products/old/6039071.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5817182",
+    "name": "PC Gamer Ryzen 7 5700X, RTX 4060, 32GB RGB DDR4, SSD NVMe 1TB, 700W 80 Plus, Full White, LMS4IAPF-E",
+    "price": 9439.76,
+    "image": "assets/products/old/5817182.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5805531",
+    "name": "PC Gamer Completo Ryzen 5 5500, RTX 3060, 16GB DDR4, SSD 480GB, 600W 80 Plus, EUF2AXQ5-E",
+    "price": 5769.04,
+    "image": "assets/products/old/5805531.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5805526",
+    "name": "PC Gamer Completo Ryzen 5 5500, RTX 3060, 16GB DDR4, SSD 480GB, 600W 80 Plus, GDYN4MEA-E",
+    "price": 5758.84,
+    "image": "assets/products/old/5805526.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5805523",
+    "name": "PC Gamer Completo Ryzen 5 5500, RTX 3050, 16GB DDR4, SSD 480GB, 600W 80 Plus, PNZKOB1O-E",
+    "price": 4728.55,
+    "image": "assets/products/old/5805523.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5805513",
+    "name": "PC Gamer Completo Ryzen 5 4600G, 16GB DDR4, SSD 480GB, 400W 80 Plus, KEUJL46P-E",
+    "price": 3561.25,
+    "image": "assets/products/old/5805513.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5805511",
+    "name": "PC Gamer Ryzen 5 5500, RTX 3060, 16GB DDR4, SSD 480GB, 600W 80 Plus, S7R9094X-E",
+    "price": 5274.93,
+    "image": "assets/products/old/5805511.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5805510",
+    "name": "PC Gamer Ryzen 5 5500, RTX 3060, 16GB DDR4, SSD 480GB, 600W 80 Plus, LBN197R8-E",
+    "price": 5274.93,
+    "image": "assets/products/old/5805510.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5378432",
+    "name": "PC Gamer Completo Ryzen 5 4600G, 16GB DDR4, SSD 480GB, 400W 80 Plus, 1XB67YNH-E",
+    "price": 3791.43,
+    "image": "assets/products/old/5378432.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5378429",
+    "name": "PC Gamer Completo Ryzen 5 5600G, 16GB DDR4, SSD 480GB, 500W 80 Plus, 2JCGHBER-E",
+    "price": 3544.93,
+    "image": "assets/products/old/5378429.png",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer",
+      "pc-gamer-completo",
+      "computadores"
+    ]
+  },
+  {
+    "id": "5076351",
+    "name": "PC Gamer Ryzen 5 5500, RTX 3060, 16GB DDR4, SSD 480GB, 600W 80 Plus, 0ZG44AQU-E",
+    "price": 5372.09,
+    "image": "assets/products/old/5076351.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9884622",
+    "name": "PC Gamer Ryzen 3 5300G, 8GB DDR4, SSD 240GB, 400W 80 Plus, PCRZN53G1-E",
+    "price": 2045.1,
+    "image": "assets/products/old/9884622.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9884621",
+    "name": "PC Gamer Ryzen 3 5300G, 8GB DDR4, SSD 240GB, 400W 80 Plus, PCRZN53G2-E",
+    "price": 2045.1,
+    "image": "assets/products/old/9884621.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9884620",
+    "name": "PC Gamer Completo Ryzen 3 5300G, 8GB DDR4, SSD 240GB, 400W 80 Plus, PCRZN53G3-E",
+    "price": 2658.97,
+    "image": "assets/products/old/9884620.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9884616",
+    "name": "PC Gamer Completo Ryzen 3 5300G, 8GB DDR4, SSD 240GB, 400W 80 Plus, PCRZN53G4-E",
+    "price": 2658.97,
+    "image": "assets/products/old/9884616.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9780010",
+    "name": "PC Gamer Completo Ryzen 5 5600GT, 8GB DDR4, SSD 240GB, 400W 80 Plus, PCRZN53-E",
+    "price": 4200.62,
+    "image": "assets/products/old/9780010.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9780009",
+    "name": "PC Gamer Completo Ryzen 5 5600GT,  8GB DDR4, SSD 240GB, 400W 80 Plus, PCRZN52-E",
+    "price": 2999.0,
+    "image": "assets/products/old/9780009.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9780006",
+    "name": "PC Gamer Ryzen 5 5600GT,  8GB DDR4, SSD 240GB, 400W 80 Plus, PCRZN51-E",
+    "price": 3417.0,
+    "image": "assets/products/old/9780006.jpg",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9780000",
+    "name": "PC Gamer Ryzen 5 5600GT,  8GB DDR4, SSD 240GB, 400W 80 Plus, PCRZN50-E",
+    "price": 3007.81,
+    "image": "assets/products/old/9780000.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9542819",
+    "name": "PC Gamer Ryzen 5 8400F, RTX 5050, 16GB DDR5, SSD NVMe 500GB, 600W 80 Plus, AQM002-E",
+    "price": 7236.14,
+    "image": "assets/products/old/9542819.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9542818",
+    "name": "PC Gamer Ryzen 5 8400F, RTX 5060, 16GB DDR5, SSD NVMe 500GB, 600W 80 Plus, AQM006-E",
+    "price": 7073.45,
+    "image": "assets/products/old/9542818.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9542817",
+    "name": "PC Gamer Ryzen 5 9600, RTX 5060, 16GB DDR5, SSD NVMe 500GB, 600W 80 Plus, AQM011-E",
+    "price": 7933.82,
+    "image": "assets/products/old/9542817.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9542816",
+    "name": "PC Gamer Ryzen 7 8700F, RTX 5060, 16GB DDR5, SSD NVMe 1TB, 700W 80 Plus, AQM016-E",
+    "price": 8643.82,
+    "image": "assets/products/old/9542816.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9542815",
+    "name": "PC Gamer Ryzen 7 9800X3D, RTX 5070, 16GB DDR5, SSD NVMe 1TB, 700W 80 Plus, AQM087-E",
+    "price": 15297.79,
+    "image": "assets/products/old/9542815.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9542814",
+    "name": "PC Gamer Ryzen 7 9800X3D, RTX 5070, 16GB DDR5, SSD NVMe 1TB, 700W 80 Plus, AQM023-E",
+    "price": 15287.59,
+    "image": "assets/products/old/9542814.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9542813",
+    "name": "PC Gamer Ryzen 5 8400F, RX 9060 XT, 16GB DDR5, SSD NVMe 500GB, 600W 80 Plus, AQM030-E",
+    "price": 8233.61,
+    "image": "assets/products/old/9542813.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9542812",
+    "name": "PC Gamer Completo Ryzen 5 8400F, RTX 5050, 16GB DDR5, SSD NVMe 500GB, 600W 80 Plus, AQM037-E",
+    "price": 7720.04,
+    "image": "assets/products/old/9542812.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9542811",
+    "name": "PC Gamer Completo Ryzen 5 8400F, RTX 5050, 16GB DDR5, SSD NVMe 500GB, 600W 80 Plus, GC1038-E",
+    "price": 7949.2,
+    "image": "assets/products/old/9542811.png",
+    "category_slug": "pc-gamer",
+    "category_name": "PC Gamer",
+    "categories": [
+      "pc-gamer",
+      "computadores"
+    ]
+  },
+  {
+    "id": "9523851",
+    "name": "PC Gamer Completo Ryzen 5 5600GT,  16GB DDR4, SSD 480GB, 500W 80 Plus, PCRZN33-E",
+    "price": 3477.35,
+    "image": "https://cdn.dooca.store/559/products/0-uus4d_495x495+fill_ffffff+crop_center.png?v=1780680825&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "9523850",
+    "name": "PC Gamer Completo Ryzen 5 5600GT,  16GB DDR4, SSD 480GB, 500W 80 Plus, PCRZN32-E",
+    "price": 3477.35,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-14-6_495x495+fill_ffffff+crop_center.png?v=1772215474&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "8816907",
+    "name": "PC Gamer Completo Ryzen 3 5300G, 16GB DDR4, SSD 480GB, 400W 80 Plus, PCRZN24-E",
+    "price": 3019.03,
+    "image": "https://cdn.dooca.store/559/products/0-85yun_495x495+fill_ffffff+crop_center.png?v=1780927329&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "8816906",
+    "name": "PC Gamer Completo Ryzen 3 5300G, 16GB DDR4, SSD 480GB, 400W 80 Plus, PCRZN23-E",
+    "price": 3019.03,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-68-2_495x495+fill_ffffff+crop_center.png?v=1772483164&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "8139254",
+    "name": "PC Gamer Completo Ryzen 3 3200G, 16GB DDR4, SSD 480GB, 400W 80 Plus, PCRZ302-E",
+    "price": 2845.12,
+    "image": "https://cdn.dooca.store/559/products/chatgpt-image-15-de-mai-de-2026-11-42-18-lyaom_495x495+fill_ffffff+crop_center.png?v=1778867105&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "8126727",
+    "name": "PC Gamer Completo Ryzen 5 5500, RTX 3050, 16GB DDR4, SSD 480GB, 600W 80 Plus, PCWLD04-E",
+    "price": 5027.33,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-82-5_495x495+fill_ffffff+crop_center.png?v=1772541141&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "8045431",
+    "name": "PC Gamer Completo Ryzen 5 4600G, 16GB DDR4, SSD NVMe 500GB, 500W 80 Plus, PCGAM10-E",
+    "price": 3876.34,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-16-3_495x495+fill_ffffff+crop_center.png?v=1772541205&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "8045430",
+    "name": "PC Gamer Completo Ryzen 5 4600G, 16GB DDR4, SSD NVMe 500GB, 500W 80 Plus, PCGAM09-E",
+    "price": 3869.2,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-17_495x495+fill_ffffff+crop_center.png?v=1772541268&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "8037945",
+    "name": "PC Gamer Completo Ryzen 5 5600GT, 16GB DDR4, SSD NVMe 500GB, 500W 80 Plus, PCGAM04-E",
+    "price": 3738.3,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-16-4_495x495+fill_ffffff+crop_center.png?v=1772541302&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "8037942",
+    "name": "PC Gamer Completo Ryzen 5 5600GT, 16GB DDR4, SSD NVMe 500GB, 500W 80 Plus, PCGAM03-E",
+    "price": 3731.08,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-53-3_495x495+fill_ffffff+crop_center.png?v=1772541327&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "7541264",
+    "name": "PC Gamer Completo Ryzen 5 5500, RTX 4060, 16GB DDR4, SSD NVMe 500GB, 600W 80 Plus, AQUAPC04-E",
+    "price": 5579.74,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-10-14_495x495+fill_ffffff+crop_center.png?v=1772543448&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "7541261",
+    "name": "PC Gamer Completo Ryzen 5 5500, RTX 4060, 16GB DDR4, SSD NVMe 500GB, 600W 80 Plus, AQUAPC02-E",
+    "price": 5569.54,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-8-13_495x495+fill_ffffff+crop_center.png?v=1772543483&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "7531086",
+    "name": "PC Gamer Completo Ryzen 5 4600G, 8GB DDR4, SSD 240GB, 500W 80 Plus, PCSTM02-E",
+    "price": 3136.67,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-18-1_495x495+fill_ffffff+crop_center.png?v=1772543567&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "7531083",
+    "name": "PC Gamer Completo Ryzen 5 4600G, 16GB DDR4, SSD 480GB, 500W 80 Plus, PCSTM04-E",
+    "price": 3658.49,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-18-2_495x495+fill_ffffff+crop_center.png?v=1772543726&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "7531081",
+    "name": "PC Gamer Completo Ryzen 5 5600GT, 8GB DDR4, SSD 240GB, 500W 80 Plus, PCSTM06-E",
+    "price": 2998.63,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-18-3_495x495+fill_ffffff+crop_center.png?v=1772543776&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "7481316",
+    "name": "PC Gamer Completo Ryzen 7 5700G, 16GB DDR4, SSD NVMe 500GB, 500W 80 Plus, PCR7G10-E",
+    "price": 3835.46,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-3-1_495x495+fill_ffffff+crop_center.png?v=1772543912&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "7481301",
+    "name": "PC Gamer Completo Ryzen 7 5700G, 16GB DDR4, SSD NVMe 500GB, 500W 80 Plus, PCR7G08-E",
+    "price": 3825.26,
+    "image": "https://cdn.dooca.store/559/products/chatgpt-image-25-de-fev-de-2026-20-22-50-2_495x495+fill_ffffff+crop_center.png?v=1772062266&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "7470739",
+    "name": "PC Gamer Completo Ryzen 5 5600GT, 16GB DDR4, SSD 480GB, 500W 80 Plus, PCR56GT02-E",
+    "price": 3453.89,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-19-5_495x495+fill_ffffff+crop_center.png?v=1772544065&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "7450869",
+    "name": "PC Gamer Completo Ryzen 7 5700G, 16GB DDR4, SSD NVMe 500GB, 500W 80 Plus, PCR7G06-E",
+    "price": 4051.36,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-20-1_495x495+fill_ffffff+crop_center.png?v=1772544420&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "7450866",
+    "name": "PC Gamer Completo Ryzen 5 4500, RTX 2060, 16GB DDR4, SSD NVMe 500GB, 600W 80 Plus, PCR7G04-E",
+    "price": 4985.34,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-8-14_495x495+fill_ffffff+crop_center.png?v=1772544450&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "7450864",
+    "name": "PC Gamer Completo Ryzen 7 5700G, 16GB DDR4, SSD NVMe 500GB, 500W 80 Plus, PCR7G02-E",
+    "price": 4051.36,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-21-2_495x495+fill_ffffff+crop_center.png?v=1772544499&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "7249985",
+    "name": "PC Gamer Completo Ryzen 5 5500, RX 6600, 16GB DDR4, SSD NVMe 500GB, 600W 80 Plus, PCCRV32-E",
+    "price": 4987.46,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-6-tcvcg_495x495+fill_ffffff+crop_center.png?v=1772544907&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "7249980",
+    "name": "PC Gamer Completo Ryzen 5 5500, RX 6600, 16GB DDR4, SSD NVMe 500GB, 600W 80 Plus, PCCRV30-E",
+    "price": 4983.3,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-7-pbbjz_495x495+fill_ffffff+crop_center.png?v=1772545221&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "6893434",
+    "name": "PC Gamer Completo Intel Core I5 12400F, RTX 4060, 16GB DDR4, SSD NVMe 500GB, 600W 80 Plus, PCCRV28-E",
+    "price": 6264.16,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-6-2p50i_495x495+fill_ffffff+crop_center.png?v=1772545280&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "6893433",
+    "name": "PC Gamer Completo Ryzen 5 4600G, 16GB DDR4, SSD 480GB, 400W 80 Plus, PCCRV02-E",
+    "price": 3699.37,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-7-iszgk_495x495+fill_ffffff+crop_center.png?v=1772545371&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "6893429",
+    "name": "PC Gamer Completo Ryzen 5 5600GT, 16GB DDR4, SSD 480GB, 500W 80 Plus, PCCRV04-E",
+    "price": 3562.27,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-7-bibny_495x495+fill_ffffff+crop_center.png?v=1772545410&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "6893425",
+    "name": "PC Gamer Completo Ryzen 5 5500, RTX 4060, 16GB DDR4, SSD NVMe 500GB, 600W 80 Plus, PCCRV06-E",
+    "price": 5708.69,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-7-wkhs0_495x495+fill_ffffff+crop_center.png?v=1772545432&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "6893419",
+    "name": "PC Gamer Completo Ryzen 5 4500, RTX 3050, 16GB DDR4, SSD 480GB, 600W 80 Plus, PCCRV08-E",
+    "price": 4839.05,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-7-pkvvq_495x495+fill_ffffff+crop_center.png?v=1772545460&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "6893415",
+    "name": "PC Gamer Completo Ryzen 5 4500, RX 6600, 16GB DDR4, SSD 480GB, 500W 80 Plus, PCCRV10-E",
+    "price": 4959.84,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-7-qrgke_495x495+fill_ffffff+crop_center.png?v=1772545495&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "6893410",
+    "name": "PC Gamer Completo Intel Core I5 12400F, RX 6600, 16GB DDR4, SSD NVMe 500GB, 600W 80 Plus, PCCRV12-E",
+    "price": 5230.9,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-7-3apmn_495x495+fill_ffffff+crop_center.png?v=1772545529&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "6893407",
+    "name": "PC Gamer Completo Intel Core I5 12400F, RTX 4060, 16GB DDR4, SSD NVMe 500GB, 600W 80 Plus, PCCRV14-E",
+    "price": 6260.08,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-7-nx4d3_495x495+fill_ffffff+crop_center.png?v=1772545558&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "6893402",
+    "name": "PC Gamer Completo Ryzen 5 4600G, 16GB DDR4, SSD 480GB, 400W 80 Plus, PCCRV16-E",
+    "price": 3703.45,
+    "image": "https://cdn.dooca.store/559/products/pc-gamer-completo-enifler-6-iaffi_495x495+fill_ffffff+crop_center.png?v=1772545610&webp=0",
+    "category_slug": "pc-gamer-completo",
+    "category_name": "PC Gamer Completo",
+    "categories": [
+      "pc-gamer-completo"
+    ]
+  },
+  {
+    "id": "4619959",
+    "name": "Processador AMD Ryzen 7 5700X, 3.4GHz (4.6GHz Max Turbo), Cache 36MB, AM4, Sem Vídeo - 100-100000926WOF",
+    "price": 1517.58,
+    "image": "https://cdn.dooca.store/559/products/processador-amd-ryzen-7-5700x-cache-36mb-3-8ghz-4-6ghz-max-turbo-am4-100-100000926wof-1647636511-gg_495x495+fill_ffffff+crop_center.jpg?v=1690642836&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10411346",
+    "name": "Placa Mãe ASRock H610M-H2/M.2 D5, LGA 1700, DDR5, Micro ATX, 90-MXBML0-A0UAYZ",
+    "price": 531.05,
+    "image": "https://cdn.dooca.store/559/products/1-e7yrn_495x495+fill_ffffff+crop_center.png?v=1783100591&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10411200",
+    "name": "Gabinete Gamer Round5 Genos Black, Mid Tower, ATX, Sem Fans, Sem Fonte, Preto, R5-GENOS-B-2189",
+    "price": 334.63,
+    "image": "https://cdn.dooca.store/559/products/2-g6dbl_495x495+fill_ffffff+crop_center.png?v=1783098748&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10396070",
+    "name": "Gabinete Gamer Ocypus Iota C50 Curve Digital ARGB, Preto, Mid Tower, Sem fonte, Sem fans, OTA-C50-BKD300CD-GL",
+    "price": 529.77,
+    "image": "https://cdn.dooca.store/559/products/1-kq5ge_495x495+fill_ffffff+crop_center.png?v=1782481665&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10395700",
+    "name": "Fan Deep Cool FT12, Sem RGB, 4-Pin PWM, CFM 75, 120mm, Preto, R-FT12-BKWPN1-G",
+    "price": 472.26,
+    "image": "https://cdn.dooca.store/559/products/1-5jf7b_495x495+fill_ffffff+crop_center.png?v=1782475336&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "coolers"
+    ]
+  },
+  {
+    "id": "10395659",
+    "name": "Fonte Kalkan Maxpower, 750W, 80 Plus Bronze, MP-0850W-B",
+    "price": 243.93,
+    "image": "https://cdn.dooca.store/559/products/1-j3zwo_495x495+fill_ffffff+crop_center.png?v=1782474052&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "fonte"
+    ]
+  },
+  {
+    "id": "10395654",
+    "name": "Gabinete Gamer Gamdias Aura GC2 Elite ARGB, Branco, Mid Tower, Sem fonte, 3 Fans,  AURAGC2ELITEARGB-WH",
+    "price": 249.76,
+    "image": "https://cdn.dooca.store/559/products/1-q6lm7_495x495+fill_ffffff+crop_center.png?v=1782473111&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10394918",
+    "name": "Gabinete Gamer Kalkan Hakon, Mid Tower, Preto, Sem Fonte, Sem Fans, KLK080",
+    "price": 99.25,
+    "image": "https://cdn.dooca.store/559/products/1-yi08j_495x495+fill_ffffff+crop_center.png?v=1782417292&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10391137",
+    "name": "Pasta Térmica Duex Cryo Flu Pro, 2G, 14W/mK, DXCRYOFLUX-PRO-KIT-2G-14W/M-K",
+    "price": 6.55,
+    "image": "https://cdn.dooca.store/559/products/imgi-3-br-11134207-81ztc-mk0y2yntg1du28-jojuo-zuo6n_495x495+fill_ffffff+crop_center.jpg?v=1782320989&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "pasta-termica"
+    ]
+  },
+  {
+    "id": "10391017",
+    "name": "Gabinete Cooler Master MasterBox 600, Mid Tower, Branco, ARGB, MB600-WGNN-S00",
+    "price": 498.84,
+    "image": "https://cdn.dooca.store/559/products/5-iu7wt_495x495+fill_ffffff+crop_center.png?v=1782320465&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10391006",
+    "name": "Gabinete Elite 481, Mini Tower, ARGB, Sem Fonte, 3 Fans, Preto, E481-KHNN-S00",
+    "price": 340.17,
+    "image": "https://cdn.dooca.store/559/products/9ec21095-55e8-42fb-a57e-23ea25146612-ofcm9_495x495+fill_ffffff+crop_center.png?v=1782317450&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10390696",
+    "name": "Gabinete Gamer Duex Curvo, Mid Tower, Branco, Sem Fonte, Sem Fans, DXGA250WH",
+    "price": 126.96,
+    "image": "https://cdn.dooca.store/559/products/2-p4hny_495x495+fill_ffffff+crop_center.png?v=1782310705&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10390285",
+    "name": "Placa Mãe GIGABYTE B760M D3HP, LGA 1700, DDR5, Micro ATX, 9MB76M3HP-00-G10",
+    "price": 760.31,
+    "image": "https://cdn.dooca.store/559/products/1-xfmuc_495x495+fill_ffffff+crop_center.png?v=1782305303&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10380094",
+    "name": "Placa Mãe Gamer Ninja A520M-GN, AM4, mATX, DDR4, GN-MB-A520MD4",
+    "price": 375.28,
+    "image": "https://cdn.dooca.store/559/products/1-m1oxw_495x495+fill_ffffff+crop_center.png?v=1781877722&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10380045",
+    "name": "Air Cooler Gamer Ninja Hayate x2, Preto, RGB, 120mm, AMD, Intel, GN-AC-HX2HB1F1AA",
+    "price": 34.37,
+    "image": "https://cdn.dooca.store/559/products/1-sylly_495x495+fill_ffffff+crop_center.png?v=1781877023&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "coolers"
+    ]
+  },
+  {
+    "id": "10374034",
+    "name": "Memória Macrovip Intel, 8GB, DDR4, 3200MHz, CL22, Preto, MV32N22/8I",
+    "price": 299.0,
+    "image": "https://cdn.dooca.store/559/products/3-rbemx_495x495+fill_ffffff+crop_center.png?v=1781788208&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "memoria"
+    ]
+  },
+  {
+    "id": "10371954",
+    "name": "Suporte de Placa de Vídeo Cooler Master Master Accessory, ARGB, Preto,  MCA-U000R-GSBTG-00",
+    "price": 115.53,
+    "image": "https://cdn.dooca.store/559/products/a9584f0b-e3b0-4d0e-9533-f24b4172c269-uvvjg_495x495+fill_ffffff+crop_center.png?v=1781718092&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10371797",
+    "name": "Water Cooler Cooler Master Core NEX 240, 240mm, ARGB, Preto, MLX-D24M-A18PA-R1",
+    "price": 347.6,
+    "image": "https://cdn.dooca.store/559/products/1-i67jl_495x495+fill_ffffff+crop_center.png?v=1781716458&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10371753",
+    "name": "Water Cooler Cooler Master Core NEX 240, 240mm, ARGB, Branco, MLX-D24M-A18PA-RW",
+    "price": 347.6,
+    "image": "https://cdn.dooca.store/559/products/1-kjowa_495x495+fill_ffffff+crop_center.png?v=1781715116&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10371727",
+    "name": "Water Cooler Cooler Master NEX 360 White, 360mm, ARGB, Branco, MLX-D36M-A18PA-RW",
+    "price": 405.72,
+    "image": "https://cdn.dooca.store/559/products/1-mne3t_495x495+fill_ffffff+crop_center.png?v=1781714089&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "coolers"
+    ]
+  },
+  {
+    "id": "10371713",
+    "name": "Fonte Duex DX 500FSE, 500W, Preto, PFC Ativo, Com Cabo, DX500FSE",
+    "price": 88.55,
+    "image": "https://cdn.dooca.store/559/products/2-si5ug_495x495+fill_ffffff+crop_center.png?v=1781713352&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "fonte"
+    ]
+  },
+  {
+    "id": "10371252",
+    "name": "Gabinete Duex, Mid Tower, Preto, Sem Fonte, Sem Fans, DXGA275BK",
+    "price": 77.49,
+    "image": "https://cdn.dooca.store/559/products/img2-oq0xj_495x495+fill_ffffff+crop_center.jpg?v=1782392284&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10370955",
+    "name": "Gabinete Duex Office Full Black, Preto, Sem Fonte, Sem Fan, DX255-8",
+    "price": 42.89,
+    "image": "https://cdn.dooca.store/559/products/3-krnbz_495x495+fill_ffffff+crop_center.png?v=1781704062&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10370916",
+    "name": "Gabinete Cooler Master QUBE 540, Mid Tower, Prata, Q540-LGNN-S00",
+    "price": 317.86,
+    "image": "https://cdn.dooca.store/559/products/3-nokpy_495x495+fill_ffffff+crop_center.png?v=1781702452&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10370788",
+    "name": "Gabinete Cooler Master MASTERFRAME 360 STAGE, LCD, ARGB, Mid-Tower, Preto, MF360-KHNN-S02",
+    "price": 1435.09,
+    "image": "https://cdn.dooca.store/559/products/4-ou6fp_495x495+fill_ffffff+crop_center.png?v=1781700654&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10348729",
+    "name": "SSD Hiksemi Future X Lite, 512GB, NVMe, M.2 2280, PCIe 4.0, 7100 MB/s, HS-SSD-FUTURE-LITE-512G",
+    "price": 583.45,
+    "image": "https://cdn.dooca.store/559/products/img1-n3qnn_495x495+fill_ffffff+crop_center.png?v=1781197979&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10347765",
+    "name": "Gabinete Gamer Kalkan Hakon, Mid Tower, Branco, Sem Fonte, Sem Fans, KLK081",
+    "price": 113.87,
+    "image": "https://cdn.dooca.store/559/products/1-oiv6v_495x495+fill_ffffff+crop_center.png?v=1781183001&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10347713",
+    "name": "Gabinete Gamer Kalkan Midgard Digital, Mid Tower, Preto, Sem Fonte, Sem Fans, KLK085",
+    "price": 181.04,
+    "image": "https://cdn.dooca.store/559/products/1-hfxh9_495x495+fill_ffffff+crop_center.png?v=1781181615&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10345917",
+    "name": "Placa de Video GIGABYTE GeForce RTX 5070 EAGLE OC SFF, 12GB, GDDR7, DLSS4, Ray Tracing, 9vn5070eo-00-g10",
+    "price": 5384.72,
+    "image": "https://cdn.dooca.store/559/products/1-45trl_495x495+fill_ffffff+crop_center.png?v=1781112726&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10345854",
+    "name": "Placa de Video GIGABYTE GeForce RTX 5070 EAGLE OC ICE, 12GB, Branca, GDDR7, DLSS4, Ray Tracing, 9vn5070eoi-00-g10",
+    "price": 5368.99,
+    "image": "https://cdn.dooca.store/559/products/1-y6r5g_495x495+fill_ffffff+crop_center.png?v=1781111914&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10345812",
+    "name": "Placa de Video GIGABYTE GeForce RTX 5070 AERO OC, 12GB, GDDR7, DLSS4, PCI-E 5.0, Ray Tracing, 9vn5070ao-00-g10",
+    "price": 5665.63,
+    "image": "https://cdn.dooca.store/559/products/1-tmrf5_495x495+fill_ffffff+crop_center.png?v=1781110154&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10344613",
+    "name": "Placa Mãe MSI PRO A620AM-B EVO, DDR5, AM5, Micro ATX, 911-7E36-002",
+    "price": 504.5,
+    "image": "https://cdn.dooca.store/559/products/1-rel8g_495x495+fill_ffffff+crop_center.jpg?v=1781093305&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10343920",
+    "name": "Water Cooler Duex ORB Display 360, 360mm, ARGB, Preto, DXWC360ORB",
+    "price": 341.77,
+    "image": "https://cdn.dooca.store/559/products/imgi-2-dxwc360orb1555-jfztu_495x495+fill_ffffff+crop_center.jpg?v=1781038028&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10341642",
+    "name": "Memória Corsair Vengeance RGB RS, 16GB (2x8), DDR4, 3200MHz, CL16, CMG16GX4M2E3200C16",
+    "price": 1083.01,
+    "image": "https://cdn.dooca.store/559/products/1-mgan8_495x495+fill_ffffff+crop_center.png?v=1781012219&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "memoria"
+    ]
+  },
+  {
+    "id": "10341513",
+    "name": "Memória Lexar, 16GB DDR5, 5600MHz, CL46, LD5U16G56C46ST-BGS",
+    "price": 1360.06,
+    "image": "https://cdn.dooca.store/559/products/1-ckjjs_495x495+fill_ffffff+crop_center.png?v=1781010002&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "memoria"
+    ]
+  },
+  {
+    "id": "10326311",
+    "name": "Placa de Vídeo ASRock Radeon RX 7600 Challenger, 8GB, Preto, GDDR6, 128 Bit, OC, Ray Tracing, 90-GA62ZZ-00UANF",
+    "price": 1946.42,
+    "image": "https://cdn.dooca.store/559/products/1-844an_495x495+fill_ffffff+crop_center.jpg?v=1780426662&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10324613",
+    "name": "Placa de Vídeo XFX Speedster SWFT 210 Radeon RX 7700 XT, 12GB, GDDR6, Ray Tracing, RX-77TSWFTFP",
+    "price": 3053.45,
+    "image": "https://cdn.dooca.store/559/products/1-0ubdi_495x495+fill_ffffff+crop_center.png?v=1780405401&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10321870",
+    "name": "Gabinete Gamer LIAN LI V100R MINI, Mid Tower, Preto, Sem Fonte, OE809RX-BLACK",
+    "price": 434.51,
+    "image": "https://cdn.dooca.store/559/products/1-zbikp_495x495+fill_ffffff+crop_center.png?v=1780321855&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10321777",
+    "name": "Placa de Vídeo Gigabyte GeForce RTX 3060 Gaming OC, 8GB, GDDR6, DLSS, Ray Tracing, 9VN3068GO-00-G20",
+    "price": 2166.65,
+    "image": "https://cdn.dooca.store/559/products/1-pyun4_495x495+fill_ffffff+crop_center.png?v=1780319377&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10321715",
+    "name": "Fonte Cooler Master V 1100 SFX, 1100W, Full Modular, 80 Plus Platinum, PCIE 5.0, PFC Ativo, MPZ-B001-SFAP-BWO",
+    "price": 1978.25,
+    "image": "https://cdn.dooca.store/559/products/4-jrftz_495x495+fill_ffffff+crop_center.png?v=1780317378&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "fonte"
+    ]
+  },
+  {
+    "id": "10321701",
+    "name": "Cooler Duex DXC120X RGB, 120mm, RGB, Intel/AMD, DXC120X-RGB",
+    "price": 24.72,
+    "image": "https://cdn.dooca.store/559/products/gdr15yvhc1g80m2bzkf095sytupcsvhb6z1q_495x495+fill_ffffff+crop_center.jpg?v=1780316681&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "coolers"
+    ]
+  },
+  {
+    "id": "10297087",
+    "name": "Placa Mãe ASUS TUF Gaming A520M-PLUS WIFI, AM4, DDR4, WIFI, mATX, 90MB17F0-M0EAY0",
+    "price": 684.32,
+    "image": "https://cdn.dooca.store/559/products/1-jeg89_495x495+fill_ffffff+crop_center.png?v=1779479773&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10297037",
+    "name": "Placa de Vídeo Palit GeForce RTX 5060 Ti Dual, 8GB, GDDR7, 128 Bits, DLSS, Ray Tracing, NE7506T019P1-GB2062D",
+    "price": 2955.41,
+    "image": "https://cdn.dooca.store/559/products/imgi-105-placa-de-video-palit-nvidia-geforce-rtx-5060ti-dual-8gb-gddr7-ne7506t019p1-gb2062d-1222708-24940-c5wdl_495x495+fill_ffffff+crop_center.jpg?v=1779479310&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "10272229",
+    "name": "Memória Macrovip MAX, 8GB, DDR4, 3200MHz, CL16, Preto, MVX32N16/8",
+    "price": 343.75,
+    "image": "https://cdn.dooca.store/559/products/img1-jzd1q_495x495+fill_ffffff+crop_center.png?v=1781198987&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "memoria"
+    ]
+  },
+  {
+    "id": "10271607",
+    "name": "Memória Kingston FURY Beast, 8GB, DDR4, 3200MHz, CL16, KF432C16BB/8WP",
+    "price": 656.75,
+    "image": "https://cdn.dooca.store/559/products/imgi-12-memoria-kingston-fury-beast-8gb-3200mhz-ddr4-black-kf432c16bb8-129477-nj12a_495x495+fill_ffffff+crop_center.jpg?v=1778769716&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "memoria"
+    ]
+  },
+  {
+    "id": "10271282",
+    "name": "Memória ADATA, 32GB, DDR4, 3200MHz, CL22, AD4U320032G22-SGN",
+    "price": 1353.15,
+    "image": "https://cdn.dooca.store/559/products/imgi-1-mem-ria-adata-32gb-3200mhz-ddr4-cl22-para-desktop-ad4u320032g22-sng-1741288840-serfu_495x495+fill_ffffff+crop_center.jpg?v=1778764099&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "memoria"
+    ]
+  },
+  {
+    "id": "10248821",
+    "name": "Fonte Duex Pulse Pro, 1200W, Full Modular, 80 Plus Platinum, Cybernetics, PFC Ativo, DXFOPRO1200WG3",
+    "price": 712.94,
+    "image": "https://cdn.dooca.store/559/products/8jmondngbcbgolasgv8fqklggzyjrmfpycsx_495x495+fill_ffffff+crop_center.jpg?v=1778077301&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "fonte"
+    ]
+  },
+  {
+    "id": "10248571",
+    "name": "Fonte Duex Pulse Pro, 1200W, Full Modular, White, 80 Plus Platinum, Cybernetics, PFC Ativo, DXFOPRO1200WG3+W",
+    "price": 785.8,
+    "image": "https://cdn.dooca.store/559/products/1-wcw4m_495x495+fill_ffffff+crop_center.png?v=1778075644&webp=0",
+    "category_slug": "hardware",
+    "category_name": "Hardware",
+    "categories": [
+      "hardware",
+      "fonte"
+    ]
+  },
+  {
+    "id": "4839496",
+    "name": "Cabo Adaptador PCYES, USB-A 3.0 para USB-B 3.0, 2 Metros, 28 AWG, Cobre Puro, Preto, PUAMBM3-2",
+    "price": 26.97,
+    "image": "https://cdn.dooca.store/559/products/d8gxb3tirljnpznm2rvlewjabnozccgtewc9_495x495+fill_ffffff+crop_center.jpg?v=1692292871&webp=0",
+    "category_slug": "acessorios",
+    "category_name": "Acess?rios",
+    "categories": [
+      "acessorios"
+    ]
+  },
+  {
+    "id": "4833880",
+    "name": "Cabo para Impressora VINIK, USB-A x USB-B, 2 Metros, Preto, U3AMBM-2",
+    "price": 16.1,
+    "image": "https://cdn.dooca.store/559/products/1-1012_495x495+fill_ffffff+crop_center.png?v=1758829501&webp=0",
+    "category_slug": "acessorios",
+    "category_name": "Acess?rios",
+    "categories": [
+      "acessorios"
+    ]
+  },
+  {
+    "id": "4037357",
+    "name": "Pen Drive Sandisk Cruzer Blade 32gb, Usb 2.0, Preto - Sdcz50-032g-b35",
+    "price": 13.58,
+    "image": "https://cdn.dooca.store/559/products/jcxthiq7cn9sv6iedmcnzo93ksgidz2olw46_495x495+fill_ffffff+crop_center.jpg?v=1677501270&webp=0",
+    "category_slug": "acessorios",
+    "category_name": "Acess?rios",
+    "categories": [
+      "acessorios"
+    ]
+  },
+  {
+    "id": "3750212",
+    "name": "Pen Drive Sandisk Cruzer Blade 64gb, Usb 2.0, Preto - Sdcz50-064g-b35",
+    "price": 19.04,
+    "image": "https://cdn.dooca.store/559/products/lkkwp2p2icbggmbus3nnyh0seqnvg5podnzr_495x495+fill_ffffff+crop_center.jpg?v=1670674031&webp=0",
+    "category_slug": "acessorios",
+    "category_name": "Acess?rios",
+    "categories": [
+      "acessorios"
+    ]
+  },
+  {
+    "id": "7667998",
+    "name": "Cartão de Memória SanDisk Extreme Pro, 32GB, Micro SDXC, Classe 10, 4K, UHS-I, V30, 100MB/s, SDSQXCG-032G-GN6MA",
+    "price": 51.01,
+    "image": "https://cdn.dooca.store/559/products/611l5-foil-ac-uf8941000-ql80_495x495+fill_ffffff+crop_center.jpg?v=1761706658&webp=0",
+    "category_slug": "acessorios",
+    "category_name": "Acess?rios",
+    "categories": [
+      "acessorios"
+    ]
+  },
+  {
+    "id": "10374122",
+    "name": "Monitor Duex ORYUS Curve 34\", QHD, HVA, 180Hz, 1ms, HDMI/DP, DXMO34UWQ180",
+    "price": 1213.64,
+    "image": "https://cdn.dooca.store/559/products/1-5dye6_495x495+fill_ffffff+crop_center.png?v=1781789811&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "10372218",
+    "name": "Monitor Duex ORYUS Curve 32\", Full HD, VA, 240Hz, 1ms, HDMI/DP, RGB, DXPRO32FC240L",
+    "price": 1069.87,
+    "image": "https://cdn.dooca.store/559/products/2-3qhmr_495x495+fill_ffffff+crop_center.png?v=1781720488&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "10372051",
+    "name": "Monitor Duex ORYUS Flat 27\"\", QHD, IPS, 200Hz, 1ms, HDMI/DP, DXMO27Q200FL",
+    "price": 924.96,
+    "image": "https://cdn.dooca.store/559/products/4-q1c2q_495x495+fill_ffffff+crop_center.png?v=1781718683&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "10217007",
+    "name": "Monitor Duex 23,8\", Full HD, IPS, 100Hz, 1ms, HDMI/DP, DXMO238F100",
+    "price": 387.01,
+    "image": "https://cdn.dooca.store/559/products/3q8vsyiobwwuyivmuf9uhyywhy0hxeiaygya_495x495+fill_ffffff+crop_center.jpg?v=1777321835&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "8399832",
+    "name": "Monitor Duex Pro 34\", Quad HD, VA, 180Hz, 1ms, HDR, G-Sync, FreeSync, DXPRO340P",
+    "price": 1407.93,
+    "image": "https://cdn.dooca.store/559/products/1-775_495x495+fill_ffffff+crop_center.png?v=1744313311&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "5341333",
+    "name": "Monitor Concórdia E215, 21,5'', Full HD, LED, 75Hz, 5ms - A2256",
+    "price": 302.16,
+    "image": "https://cdn.dooca.store/559/products/1-8_495x495+fill_ffffff+crop_center.jpg?v=1699989734&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "10379974",
+    "name": "Monitor Doutor Office 22\", Full HD, LED, 75Hz, HDMI, MDR-0506-22",
+    "price": 312.59,
+    "image": "https://cdn.dooca.store/559/products/1-tlkpk_495x495+fill_ffffff+crop_center.png?v=1781875774&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "10344796",
+    "name": "Monitor Duex 24\" Curvo, Full HD, IPS, 180Hz,VA, HDR, G-Sync, FreeSync, DXM024CF180S CURVO 24\"",
+    "price": 550.41,
+    "image": "https://cdn.dooca.store/559/products/jlmimzjj6pfjpghl40ss90w6fuwkcqbyc8b8_495x495+fill_ffffff+crop_center.jpg?v=1781096207&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "10235274",
+    "name": "Monitor VX Pro 27\", Full HD, LED, 75Hz, 5ms, HDMI/VGA, VX270X",
+    "price": 351.6,
+    "image": "https://cdn.dooca.store/559/products/imgi-111-vx270x-8cged_495x495+fill_ffffff+crop_center.jpg?v=1777557088&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "9972371",
+    "name": "Monitor VX Pro 27\", Full HD, LED, 75Hz, 5ms, HDMI/VGA, VX270XW",
+    "price": 388.7,
+    "image": "https://cdn.dooca.store/559/products/monitor-vxpro-27-full-hd-led-vx270xw-75hz-branco-3-20260204093301-89b6f24565f1_495x495+fill_ffffff+crop_center.png?v=1771445390&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "9972329",
+    "name": "Monitor Duex 27\", Full HD, IPS, 240Hz, 1ms, HDR, FreeSync, G-Sync, HDMI/DP, DXMO27F240S",
+    "price": 717.18,
+    "image": "https://cdn.dooca.store/559/products/monitor-gamer-duex-27-fhd-240hz-1ms-ips-hdmi-e-dp-alto-falante-embutido-preto-dxmo27f240s-1759238205-gg_495x495+fill_ffffff+crop_center.png?v=1771441375&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "9972259",
+    "name": "Monitor Duex Hyper Wide 49\", Dual Quad HD, VA, Curvo 1500R, 165Hz, 1ms, HDR, FreeSync, G-Sync, HDMI/DP, DXMO49CF165S",
+    "price": 3247.06,
+    "image": "https://cdn.dooca.store/559/products/zhguxr4oxrv1sjh9shv1gterxi2ftp5altwk_495x495+fill_ffffff+crop_center.jpg?v=1771439594&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "9419806",
+    "name": "Monitor VST 22\", Full HD, TN, 60Hz, 5ms, HDMI/VGA, VST-VST22-BL01",
+    "price": 315.43,
+    "image": "https://cdn.dooca.store/559/products/1-1025_495x495+fill_ffffff+crop_center.png?v=1759772235&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "8755694",
+    "name": "Monitor Duex Pro 270 27\", Quad HD, IPS, 180Hz, 0.5ms, HDR, G-Sync, FreeSync, DXMOPRO270",
+    "price": 1188.78,
+    "image": "https://cdn.dooca.store/559/products/1-942_495x495+fill_ffffff+crop_center.png?v=1749059875&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "8755383",
+    "name": "Monitor Duex 270ZHK 27\", Full HD, IPS, 165Hz, 1ms, HDR, G-Sync, FreeSync, DX270ZHK",
+    "price": 693.19,
+    "image": "https://cdn.dooca.store/559/products/1-941_495x495+fill_ffffff+crop_center.png?v=1749058017&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "8254321",
+    "name": "Monitor Duex 27\", Full HD, IPS, 240Hz, 1ms, HDR, FreeSync, DX270Z",
+    "price": 589.4,
+    "image": "https://cdn.dooca.store/559/products/1-729_495x495+fill_ffffff+crop_center.png?v=1742405518&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "8217624",
+    "name": "Monitor VX Pro, 19'', HD, LED, 60Hz, 5ms, VX190X",
+    "price": 263.83,
+    "image": "https://cdn.dooca.store/559/products/1-722_495x495+fill_ffffff+crop_center.png?v=1741803651&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "7834957",
+    "name": "Monitor Bluecase, 21,5\", Full HD, LED, 75Hz, 5ms, BM22G1HVWBX",
+    "price": 319.21,
+    "image": "https://cdn.dooca.store/559/products/1-594_495x495+fill_ffffff+crop_center.png?v=1736186478&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "7639601",
+    "name": "Monitor VXPro, 21,5'', Full HD, LED, 75Hz, 14ms, VX215Z",
+    "price": 275.94,
+    "image": "https://cdn.dooca.store/559/products/1-502_495x495+fill_ffffff+crop_center.png?v=1732563483&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "7496408",
+    "name": "Monitor Duex, 27'', Full HD, IPS, 240Hz, 1ms, HDR, FreeSync, DX270GHQ",
+    "price": 745.56,
+    "image": "https://cdn.dooca.store/559/products/1-438_495x495+fill_ffffff+crop_center.png?v=1730308809&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "7465072",
+    "name": "Monitor Gamer PCYES O-CREED O20 23,8\" FULL HD Has e Pivot, 165Hz, 1MS, HDMI, DP, FREESYNC - PMG238FD165AAP",
+    "price": 8278.34,
+    "image": "https://cdn.dooca.store/559/products/1-408_495x495+fill_ffffff+crop_center.png?v=1729803664&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "7457035",
+    "name": "Monitor Gamer Redragon Azur, 23.8 Pol, Full HD, 1ms, 165Hz, IPS, HDMI/DP, FreeSync, GM24X5IPS",
+    "price": 462.93,
+    "image": "https://cdn.dooca.store/559/products/1-403_495x495+fill_ffffff+crop_center.png?v=1729798652&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "7457034",
+    "name": "Monitor Gamer Redragon Vaga, 23.8 Pol, Full HD, IPS, 75Hz, HDMI/VGA, BM24V9",
+    "price": 619.84,
+    "image": "https://cdn.dooca.store/559/products/1-402_495x495+fill_ffffff+crop_center.png?v=1729798123&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "7413364",
+    "name": "Monitor AOC 24'', Full HD, LED, 165Hz, 1ms, FreeSync, 24G2S/BK",
+    "price": 494.12,
+    "image": "https://cdn.dooca.store/559/products/1-373_495x495+fill_ffffff+crop_center.png?v=1729018649&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "7329448",
+    "name": "Monitor AOC Série B1, 21.5'', Full HD, LED, 75Hz, 6ms, AdaptiveSync, 22B1HM5",
+    "price": 377.88,
+    "image": "https://cdn.dooca.store/559/products/1-323_495x495+fill_ffffff+crop_center.png?v=1727808239&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "7253064",
+    "name": "Monitor Mymax, 21,5'', Full HD, LED, 60Hz, 5ms, MM215169HV/BK",
+    "price": 324.24,
+    "image": "https://cdn.dooca.store/559/products/1-301_495x495+fill_ffffff+crop_center.png?v=1726858374&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "7183547",
+    "name": "Monitor Mymax, 19'', HD, LED, 60Hz, 3.6ms, MM191610HV/BK",
+    "price": 286.42,
+    "image": "https://cdn.dooca.store/559/products/1-295_495x495+fill_ffffff+crop_center.png?v=1726172928&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "6884154",
+    "name": "Monitor VXPro, 21,5'', Full HD, LED, 60Hz, 8ms, VX215X",
+    "price": 198.36,
+    "image": "https://cdn.dooca.store/559/products/1-250_495x495+fill_ffffff+crop_center.png?v=1722630556&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "6686485",
+    "name": "Monitor Duex, 24'', Full HD, IPS, 165Hz, 1ms, G-Sync, FreeSync, DX240G",
+    "price": 626.53,
+    "image": "https://cdn.dooca.store/559/products/1-167_495x495+fill_ffffff+crop_center.png?v=1719511126&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "6686233",
+    "name": "Monitor Concórdia, 23,8'', Full HD, IPS, 100Hz, 5ms, H238F100",
+    "price": 331.13,
+    "image": "https://cdn.dooca.store/559/products/1-166_495x495+fill_ffffff+crop_center.png?v=1719509430&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "6628262",
+    "name": "Monitor PCFort, 19'', HD, LED, 60Hz, 5ms, F1930",
+    "price": 169.71,
+    "image": "https://cdn.dooca.store/559/products/2f_495x495+fill_ffffff+crop_center.png?v=1718385965&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "4623861",
+    "name": "Monitor Gamer LG UltraGear 24”, Full HD, 144Hz, 1ms (GtG), IPS, AMD FreeSync, Dynamic Action Sync – 24GN60R",
+    "price": 1323.71,
+    "image": "https://cdn.dooca.store/559/products/sem-titulo-177_495x495+fill_ffffff+crop_center.png?v=1688755099&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "4263927",
+    "name": "Monitor 24  Bluecase Gamer Bm242gw - Full Hd - 144hz - 1ms - Freesync - Displayport/hdmi",
+    "price": 1493.28,
+    "image": "https://cdn.dooca.store/559/products/tqwtgbtoivz83ydp1yjrlmvw04enzftjmuvg_495x495+fill_ffffff+crop_center.png?v=1681568237&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "3892923",
+    "name": "Monitor Bluecase 23,6\" Full HD, HDMI e VGA, VESA, 75Hz, Preto - BM24D2HVWBX",
+    "price": 479.32,
+    "image": "https://cdn.dooca.store/559/products/fstmwp7zxmhlmar84yrn2xsdluulezcytmp1_495x495+fill_ffffff+crop_center.jpg?v=1674496013&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "3887378",
+    "name": "Monitor Bluecase 21,5\" Full HD, HDMI e VGA, VESA, 75Hz, Preto - BM22D3HVW",
+    "price": 326.17,
+    "image": "https://cdn.dooca.store/559/products/rwleukzobboy4lwvfpkypw7swgl5vonv9zuw_495x495+fill_ffffff+crop_center.jpg?v=1674248364&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "3059641",
+    "name": "Monitor Gamer Redragon Sapphire 144Hz, 1ms, 24 Pol, Full HD, IPS, HDMI/DP/VGA - M2444PH",
+    "price": 1530.24,
+    "image": "https://cdn.dooca.store/559/products/vqstqpkeqf7p226c64oc2uigmbsumzxnt3fr_495x495+fill_ffffff+crop_center.jpg?v=1655751742&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "4083576",
+    "name": "Monitor Mo6001 Led 19 Hd Widescreen Hdmi Vga Preto - HAYOM",
+    "price": 222.69,
+    "image": "https://cdn.dooca.store/559/products/tm8qc5cj60hxc83extwfzedkuvnd9susgkyz_495x495+fill_ffffff+crop_center.png?v=1678283029&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "3750198",
+    "name": "Monitor Brazilpc 21.5 LED Full HD, 75Hz, HDMI e VGA, VESA, Preto - 22W-75KAN",
+    "price": 479.32,
+    "image": "https://cdn.dooca.store/559/products/zpw0buskbz0lok0tdgnhmirgvj72rmxkef1r_495x495+fill_ffffff+crop_center.jpg?v=1670673739&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "7496416",
+    "name": "Monitor Duex, 27'', Quad HD, IPS, 240Hz, 1ms, HDR, G-Sync, FreeSync, DX270QGP240",
+    "price": 951.18,
+    "image": "https://cdn.dooca.store/559/products/1-441_495x495+fill_ffffff+crop_center.png?v=1730310209&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "7496415",
+    "name": "Monitor Duex, 23,8'', Full HD, LED, 75Hz, 1ms, FreeSync, DXMO238F75",
+    "price": 633.1,
+    "image": "https://cdn.dooca.store/559/products/1-440_495x495+fill_ffffff+crop_center.png?v=1730309871&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "7496413",
+    "name": "Monitor Bright, 21,5'', Full HD, LED, 60Hz, 5ms, MT002",
+    "price": 423.84,
+    "image": "https://cdn.dooca.store/559/products/1-439_495x495+fill_ffffff+crop_center.png?v=1730309535&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "4263920",
+    "name": "Monitor Led 21,5 Full HD 75Hz Hdmi Vga Preto - HAYOM",
+    "price": 258.28,
+    "image": "https://cdn.dooca.store/559/products/4dwonepskx92l9aadkgina9oln1sm5rswpge_495x495+fill_ffffff+crop_center.jpg?v=1681356646&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "6478573",
+    "name": "Monitor PCFort F2130, 21,5\" LED, Preto, WA18RCCM-E",
+    "price": 231.79,
+    "image": "https://cdn.dooca.store/559/products/tyflzxtg2n4l1rgqtzafxa6gzh1vpvrjdkar_495x495+fill_ffffff+crop_center.jpg?v=1715964008&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "6478523",
+    "name": "Monitor Gamer PCFort, T2701, 27\" LED FULL HD, 165Hz, HDMI, Display Port, P5OCALOP-E",
+    "price": 532.3,
+    "image": "https://cdn.dooca.store/559/products/bhphwcze22flfwey6jfkhgvs84lyjhp4cmj3_495x495+fill_ffffff+crop_center.jpg?v=1715963854&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "6478521",
+    "name": "Monitor Gamer, Concórdia R200s, 23.8 LED FULL HD, 165Hz, HDMI, Display Port, TUZ8AX31-E",
+    "price": 8278.34,
+    "image": "https://cdn.dooca.store/559/products/iyv3piqukcd8rbft3u9eq3fgrumozrgdwkvb_495x495+fill_ffffff+crop_center.jpg?v=1715963846&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "6478510",
+    "name": "Monitor 21,5\", BLUECASE, LED FULL HD, BM22X3HVW",
+    "price": 273.93,
+    "image": "https://cdn.dooca.store/559/products/obmogarz5jyqacnps0pd5ifw7qm1tioxa6th_495x495+fill_ffffff+crop_center.jpg?v=1715963811&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "6478509",
+    "name": "Monitor 23,6\", BLUECASE, LED FULL HD, 75HZ, BM24K2HVW",
+    "price": 8278.34,
+    "image": "https://cdn.dooca.store/559/products/msvytajcpwxmva9tslnuaqmnsneakuubhm10_495x495+fill_ffffff+crop_center.jpg?v=1715963787&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "6478486",
+    "name": "Monitor Bluecase, 21,5'', Full HD, LED, 75Hz, 5ms, BM22K2HVW",
+    "price": 164.9,
+    "image": "https://cdn.dooca.store/559/products/qcks5vhdx2fg1wetucvyzesidr1ygrkk88ly_495x495+fill_ffffff+crop_center.jpg?v=1715963711&webp=0",
+    "category_slug": "monitor",
+    "category_name": "Monitores",
+    "categories": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "10117452",
+    "name": "Kit Gamer Premium RGB Mesa Gamer + Cadeira Gamer Reclinável, Mousepad, Suporte Headset e Copo, Preta e Branca, ENCAYPMT-E",
+    "price": 716.9,
+    "image": "https://cdn.dooca.store/559/products/chatgpt-image-31-de-mar-de-2026-08-40-45-vqejz_495x495+fill_ffffff+crop_center.png?v=1774960573&webp=0",
+    "category_slug": "cadeira-gamer",
+    "category_name": "Cadeira Gamer",
+    "categories": [
+      "cadeira-gamer"
+    ]
+  },
+  {
+    "id": "10117449",
+    "name": "Kit Gamer Starter Mesa Gamer + Cadeira Gamer Reclinável, Mousepad, Suporte Headset e Copo, Preta e Branca, YCGMOBEI-E",
+    "price": 620.9,
+    "image": "https://cdn.dooca.store/559/products/chatgpt-image-31-de-mar-de-2026-08-40-48-1-u3muv_495x495+fill_ffffff+crop_center.png?v=1774960631&webp=0",
+    "category_slug": "cadeira-gamer",
+    "category_name": "Cadeira Gamer",
+    "categories": [
+      "cadeira-gamer"
+    ]
+  },
+  {
+    "id": "4089100",
+    "name": "Cadeira Office Go Star Preta - Cogs10p",
+    "price": 153.88,
+    "image": "https://cdn.dooca.store/559/products/zsird2fcx99s6h080sbjug5gyqekqurlewaf_495x495+fill_ffffff+crop_center.jpg?v=1678299779&webp=0",
+    "category_slug": "cadeira-gamer",
+    "category_name": "Cadeira Gamer",
+    "categories": [
+      "cadeira-gamer"
+    ]
+  },
+  {
+    "id": "4083561",
+    "name": "Cadeira Office Go Star Plus Preta - Cogsp10p",
+    "price": 366.33,
+    "image": "https://cdn.dooca.store/559/products/6p644xc2eytxzy5znghnc02tdwypma4s07p4_495x495+fill_ffffff+crop_center.jpg?v=1678282937&webp=0",
+    "category_slug": "cadeira-gamer",
+    "category_name": "Cadeira Gamer",
+    "categories": [
+      "cadeira-gamer"
+    ]
+  },
+  {
+    "id": "3889519",
+    "name": "Cadeira Gamer Comet Preta - Cgc10p",
+    "price": 495.87,
+    "image": "https://cdn.dooca.store/559/products/xmfb0mzy1xwhqxocq6j2n7rjetjemnokladl_495x495+fill_ffffff+crop_center.jpg?v=1674316308&webp=0",
+    "category_slug": "cadeira-gamer",
+    "category_name": "Cadeira Gamer",
+    "categories": [
+      "cadeira-gamer"
+    ]
+  },
+  {
+    "id": "3889517",
+    "name": "Cadeira Gamer Comet Branca - Cgc20b",
+    "price": 545.54,
+    "image": "https://cdn.dooca.store/559/products/i4hze9zwp5r58bngogxmq2avbmdo16zk1bos_495x495+fill_ffffff+crop_center.jpg?v=1674316302&webp=0",
+    "category_slug": "cadeira-gamer",
+    "category_name": "Cadeira Gamer",
+    "categories": [
+      "cadeira-gamer"
+    ]
+  },
+  {
+    "id": "9421611",
+    "name": "Cadeira Gamer Mymax MX0, Giratório, Metálica, Até 120Kg, Preto, MGCH-MX0/BK",
+    "price": 411.38,
+    "image": "https://cdn.dooca.store/559/products/1-1027_495x495+fill_ffffff+crop_center.png?v=1759778942&webp=0",
+    "category_slug": "cadeira-gamer",
+    "category_name": "Cadeira Gamer",
+    "categories": [
+      "cadeira-gamer"
+    ]
+  },
+  {
+    "id": "8204980",
+    "name": "Cadeira Gamer Gamdias Zelus M3 Weave, Reclinável 150°, Apoio Lombar, Braço 2D, Preto, ZELUS M3 WEAVE L B",
+    "price": 822.27,
+    "image": "https://cdn.dooca.store/559/products/1-717_495x495+fill_ffffff+crop_center.png?v=1741639427&webp=0",
+    "category_slug": "cadeira-gamer",
+    "category_name": "Cadeira Gamer",
+    "categories": [
+      "cadeira-gamer"
+    ]
+  },
+  {
+    "id": "8204852",
+    "name": "Cadeira Gamer Gamdias Zelus E3 Weave, Reclinável 126°, Apoio Lombar, Braço Articulado, Preto, ZELUS E3 WEAVE L B",
+    "price": 615.47,
+    "image": "https://cdn.dooca.store/559/products/1-716_495x495+fill_ffffff+crop_center.png?v=1741638689&webp=0",
+    "category_slug": "cadeira-gamer",
+    "category_name": "Cadeira Gamer",
+    "categories": [
+      "cadeira-gamer"
+    ]
+  },
+  {
+    "id": "8204587",
+    "name": "Cadeira Gamer Gamdias Zelus M3 Weave, Reclinável 150°, Apoio Lombar, Braço 2D, Cinza/Preto, ZELUS M3 WEAVE L GB",
+    "price": 822.27,
+    "image": "https://cdn.dooca.store/559/products/1-715_495x495+fill_ffffff+crop_center.png?v=1741636748&webp=0",
+    "category_slug": "cadeira-gamer",
+    "category_name": "Cadeira Gamer",
+    "categories": [
+      "cadeira-gamer"
+    ]
+  },
+  {
+    "id": "8204207",
+    "name": "Cadeira Gamer Gamdias Zelus E3 Weave, Reclinável 126°, Apoio Lombar, Braço Articulado, Cinza/Preto, ZELUS E3 WEAVE L GB",
+    "price": 615.47,
+    "image": "https://cdn.dooca.store/559/products/1-714_495x495+fill_ffffff+crop_center.png?v=1741635457&webp=0",
+    "category_slug": "cadeira-gamer",
+    "category_name": "Cadeira Gamer",
+    "categories": [
+      "cadeira-gamer"
+    ]
+  },
+  {
+    "id": "7457050",
+    "name": "Cadeira Gamer Redragon Heth, Reclinável, 2D, Tecido, Preto, C313-B",
+    "price": 802.52,
+    "image": "https://cdn.dooca.store/559/products/1-426_495x495+fill_ffffff+crop_center.png?v=1729883975&webp=0",
+    "category_slug": "cadeira-gamer",
+    "category_name": "Cadeira Gamer",
+    "categories": [
+      "cadeira-gamer"
+    ]
+  },
+  {
+    "id": "7456995",
+    "name": "Cadeira Gamer Redragon Heth, Reclinável, 2D, Tecido, Preto e Vermelho, C313-BR",
+    "price": 802.45,
+    "image": "https://cdn.dooca.store/559/products/1-372_495x495+fill_ffffff+crop_center.png?v=1729704130&webp=0",
+    "category_slug": "cadeira-gamer",
+    "category_name": "Cadeira Gamer",
+    "categories": [
+      "cadeira-gamer"
+    ]
+  },
+  {
+    "id": "8176040",
+    "name": "Kit Upgrade AMD Ryzen 5 5600GT, Placa Mãe A520M, 16GB DDR4 (2x8GB) 3200MHz, KITUP001-E",
+    "price": 1531.49,
+    "image": "https://cdn.dooca.store/559/products/16-1_495x495+fill_ffffff+crop_center.png?v=1753816648&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176038",
+    "name": "Kit Upgrade AMD Ryzen 5 5600GT, Placa Mãe B450M, 16GB DDR4 (2x8GB) 3200MHz, KITUP002-E",
+    "price": 1547.22,
+    "image": "https://cdn.dooca.store/559/products/15_495x495+fill_ffffff+crop_center.png?v=1753816604&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176035",
+    "name": "Kit Upgrade AMD Ryzen 5 5600GT, Placa Mãe Gigabyte B550 Aorus Elite, 16GB DDR4 (2x8GB) 3200MHz, KITUP003-E",
+    "price": 2060.48,
+    "image": "https://cdn.dooca.store/559/products/14_495x495+fill_ffffff+crop_center.png?v=1753816417&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176033",
+    "name": "Kit Upgrade AMD Ryzen 5 4500, Placa Mãe A520M, 16GB DDR4 (2x8GB) 3200MHz, KITUP004-E",
+    "price": 1075.36,
+    "image": "https://cdn.dooca.store/559/products/13-2_495x495+fill_ffffff+crop_center.png?v=1753816376&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176030",
+    "name": "Kit Upgrade AMD Ryzen 5 4500, Placa Mãe B450M, 16GB DDR4 (2x8GB) 3200MHz, KITUP005-E",
+    "price": 1083.64,
+    "image": "https://cdn.dooca.store/559/products/12-7_495x495+fill_ffffff+crop_center.png?v=1753816306&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176027",
+    "name": "Kit Upgrade AMD Ryzen 5 4500, Placa Mãe Gigabyte B550 Aorus Elite, 16GB DDR4 (2x8GB) 3200MHz, KITUP006-E",
+    "price": 1605.17,
+    "image": "https://cdn.dooca.store/559/products/11-8_495x495+fill_ffffff+crop_center.png?v=1753816267&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176024",
+    "name": "Kit Upgrade AMD Ryzen 5 5500, Placa Mãe A520M, 16GB DDR4 (2x8GB) 3200MHz, KITUP007-E",
+    "price": 1182.98,
+    "image": "https://cdn.dooca.store/559/products/9-23_495x495+fill_ffffff+crop_center.png?v=1753815641&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176021",
+    "name": "Kit Upgrade AMD Ryzen 5 5500, Placa Mãe B450M, 16GB DDR4 (2x8GB) 3200MHz, KITUP008-E",
+    "price": 1191.25,
+    "image": "https://cdn.dooca.store/559/products/8-70_495x495+fill_ffffff+crop_center.png?v=1753815505&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176020",
+    "name": "Kit Upgrade AMD Ryzen 5 5500, Placa Mãe Gigabyte B550 Aorus Elite, 16GB DDR4 (2x8GB) 3200MHz, KITUP009-E",
+    "price": 1704.51,
+    "image": "https://cdn.dooca.store/559/products/7-111_495x495+fill_ffffff+crop_center.png?v=1753815416&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176017",
+    "name": "Kit Upgrade AMD Ryzen 7 5700X, Placa Mãe B450M, 16GB DDR4 (2x8GB) 3200MHz, KITUP010-E",
+    "price": 1770.74,
+    "image": "https://cdn.dooca.store/559/products/6-396_495x495+fill_ffffff+crop_center.png?v=1753815329&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176015",
+    "name": "Kit Upgrade AMD Ryzen 7 5700X, Placa Mãe Asus TUF Gaming B450M-Plus II, 16GB DDR4 (2x8GB) 3200MHz, KITUP011-E",
+    "price": 2093.59,
+    "image": "https://cdn.dooca.store/559/products/5-668_495x495+fill_ffffff+crop_center.png?v=1753815293&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176013",
+    "name": "Kit Upgrade AMD Ryzen 7 5700X, Placa Mãe Gigabyte B550 Aorus Elite, 16GB DDR4 (2x8GB) 3200MHz, KITUP012-E",
+    "price": 2275.72,
+    "image": "https://cdn.dooca.store/559/products/4-909_495x495+fill_ffffff+crop_center.png?v=1753815200&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176010",
+    "name": "Kit Upgrade AMD Ryzen 7 5700X, Placa Mãe Gigabyte B550 Aorus Elite, 32GB DDR4 (2x16GB) 3200MHz, KITUP013-E",
+    "price": 2515.79,
+    "image": "https://cdn.dooca.store/559/products/3-941_495x495+fill_ffffff+crop_center.png?v=1753814147&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176006",
+    "name": "Kit Upgrade AMD Ryzen 3 3200G, Placa Mãe A320M, 16GB DDR4 (2x8GB) 3200MHz, KITUP014-E",
+    "price": 976.02,
+    "image": "https://cdn.dooca.store/559/products/2-999_495x495+fill_ffffff+crop_center.png?v=1753814087&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "8176005",
+    "name": "Kit Upgrade AMD Ryzen 3 3200G, Placa Mãe A320M, 8GB DDR4 3200MHz, KITUP015-E",
+    "price": 827.01,
+    "image": "https://cdn.dooca.store/559/products/1-708_495x495+fill_ffffff+crop_center.png?v=1753813990&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "4105780",
+    "name": "Kit Upgrade Intel Core i5 10400F, Asrock H510M-HVS, 16Gb Ram (2X8Gb), Ddr4",
+    "price": 1030.65,
+    "image": "https://cdn.dooca.store/559/products/3_495x495+fill_ffffff+crop_center.png?v=1678798998&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "4105779",
+    "name": "Kit Upgrade Intel Core i5 10400F, Asrock H510M-HVS, 8Gb Ram, Ddr4",
+    "price": 931.31,
+    "image": "https://cdn.dooca.store/559/products/2-9_495x495+fill_ffffff+crop_center.png?v=1678798935&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "4105778",
+    "name": "Kit Upgrade Intel Core i5 10400F, Asrock H510M-HVS, Ddr4",
+    "price": 831.97,
+    "image": "https://cdn.dooca.store/559/products/1-19_495x495+fill_ffffff+crop_center.png?v=1678798846&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "4105777",
+    "name": "Kit Upgrade Intel Core i7 10700F, Asrock H510M-HVS, 16Gb Ram (2X8Gb), Ddr4",
+    "price": 1600.2,
+    "image": "https://cdn.dooca.store/559/products/6_495x495+fill_ffffff+crop_center.png?v=1678798765&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "4105776",
+    "name": "Kit Upgrade Intel Core i7 10700F, Asrock H510M-HVS, 8Gb Ram, Ddr4",
+    "price": 1500.86,
+    "image": "https://cdn.dooca.store/559/products/5_495x495+fill_ffffff+crop_center.png?v=1678798708&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "4105775",
+    "name": "Kit Upgrade Intel Core i7 10700F, Asrock H510M-HVS, Ddr4",
+    "price": 1401.52,
+    "image": "https://cdn.dooca.store/559/products/4_495x495+fill_ffffff+crop_center.png?v=1678798637&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "3667242",
+    "name": "Kit Upgrade Intel I5 12400f, Asus H610M-E D4, 12ª Ger, Ddr4",
+    "price": 1456.99,
+    "image": "https://cdn.dooca.store/559/products/image-1_495x495+fill_ffffff+crop_center.png?v=1668865081&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "3667240",
+    "name": "Kit Upgrade Intel I5 12400f, Asus H610M-E D4, 8Gb 3200Mhz, Ddr4",
+    "price": 1601.86,
+    "image": "https://cdn.dooca.store/559/products/image-2_495x495+fill_ffffff+crop_center.png?v=1668865006&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "3667239",
+    "name": "Kit Upgrade Intel I5 12400f, Asus H610M-E D4, 16Gb 3200Mhz (2X8Gb), Ddr4",
+    "price": 1746.73,
+    "image": "https://cdn.dooca.store/559/products/image-3png_495x495+fill_ffffff+crop_center.png?v=1668864961&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "3172641",
+    "name": "Kit Upgrade, Amd Ryzen 5 5600X, Gigabyte B450M Gaming, 16Gb 3200Mhz (2X8Gb) Ddr4",
+    "price": 1723.55,
+    "image": "https://cdn.dooca.store/559/products/rtpehorffxoei97yexcwjd9djgyzod9rhgzn_495x495+fill_ffffff+crop_center.jpg?v=1659621471&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "3172640",
+    "name": "Kit Upgrade, Amd Ryzen 5 5600X, Gigabyte B450M Gaming, 8Gb 3200Mhz Ddr4",
+    "price": 1624.21,
+    "image": "https://cdn.dooca.store/559/products/jzqiewzaewjtmwiexemsqsr0uircw7a4xc0f_495x495+fill_ffffff+crop_center.jpg?v=1659621469&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "3172639",
+    "name": "Kit Upgrade, Amd Ryzen 5 5600X, Gigabyte B450M Gaming",
+    "price": 1524.87,
+    "image": "https://cdn.dooca.store/559/products/gptjke5wbssezccfiw2ftsw33mctrgisrnoo_495x495+fill_ffffff+crop_center.jpg?v=1659621467&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "3088137",
+    "name": "Kit Upgrade Intel 12ª Ger I5 12400f, Gigabyte B660m Ds3h, 16Gb Ddr4",
+    "price": 2156.51,
+    "image": "https://cdn.dooca.store/559/products/b660m-i5-12400f-16gb_495x495+fill_ffffff+crop_center.png?v=1656683485&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2691063",
+    "name": "Kit Upgrade, Amd Ryzen 5 5600G, Gigabyte B450M Ds3H V2, 8Gb 3200Mhz Ddr4",
+    "price": 1257.48,
+    "image": "https://cdn.dooca.store/559/products/b450m-ds3h-v2-8gb_495x495+fill_ffffff+crop_center.png?v=1654050735&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2691062",
+    "name": "Kit Upgrade, Amd Ryzen 5 5600G, Gigabyte B450M Gaming, 8Gb 3200Mhz Ddr4",
+    "price": 1290.59,
+    "image": "https://cdn.dooca.store/559/products/b450m-gaming-8gb_495x495+fill_ffffff+crop_center.png?v=1654050359&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2691060",
+    "name": "Kit Upgrade, Amd Ryzen 5 5600G, Gigabyte B450M Ds3H V2, 16Gb 3200Mhz (2X8Gb) Ddr4",
+    "price": 1379.17,
+    "image": "https://cdn.dooca.store/559/products/b450m-ds3h-v2-16gb_495x495+fill_ffffff+crop_center.png?v=1654050738&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2691053",
+    "name": "Kit Upgrade, Amd Ryzen 5 5600G, Gigabyte B450M Gaming, 16Gb 3200Mhz (2X8Gb) Ddr4",
+    "price": 1389.93,
+    "image": "https://cdn.dooca.store/559/products/b450m-gaming-16gb_495x495+fill_ffffff+crop_center.png?v=1654050263&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2691046",
+    "name": "Kit Upgrade, Amd Ryzen 5 5600G, Gigabyte B450M Gaming",
+    "price": 1191.25,
+    "image": "https://cdn.dooca.store/559/products/b450m-gaming_495x495+fill_ffffff+crop_center.png?v=1654050354&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2691044",
+    "name": "Kit Upgrade, Amd Ryzen 5 5600G, Gigabyte B450M DS3H V2",
+    "price": 1135.79,
+    "image": "https://cdn.dooca.store/559/products/b450m-ds3h-v2_495x495+fill_ffffff+crop_center.png?v=1654050741&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2502573",
+    "name": "Kit Upgrade, Amd Ryzen 5 1600, Ga-A320M, Hx Fury 8Gb 2666Mhz",
+    "price": 790.58,
+    "image": "https://cdn.dooca.store/559/products/2-4_495x495+fill_ffffff+crop_center.png?v=1654601330&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2502571",
+    "name": "Kit Upgrade, Amd Ryzen 5 1600, B450M Gaming, Hx Fury 8Gb",
+    "price": 920.55,
+    "image": "https://cdn.dooca.store/559/products/2-6_495x495+fill_ffffff+crop_center.png?v=1654601423&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2502570",
+    "name": "Kit Upgrade, Amd Ryzen 5 1600, B450M Ds3H V2, Hx Fury 8Gb",
+    "price": 803.0,
+    "image": "https://cdn.dooca.store/559/products/2-7_495x495+fill_ffffff+crop_center.png?v=1654601469&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2502569",
+    "name": "Kit Upgrade, Amd Ryzen 5 1600, A320M-K, Hx Fury 8Gb 2666Mhz",
+    "price": 852.67,
+    "image": "https://cdn.dooca.store/559/products/2-8_495x495+fill_ffffff+crop_center.png?v=1654601659&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2495201",
+    "name": "Kit Upgrade, Amd Ryzen 5 1600, Gigabyte B450M DS3H V2",
+    "price": 736.77,
+    "image": "https://cdn.dooca.store/559/products/1-15_495x495+fill_ffffff+crop_center.png?v=1654601729&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2495200",
+    "name": "Kit Upgrade, Amd Ryzen 5 1600, Gigabyte B450M Gaming",
+    "price": 821.21,
+    "image": "https://cdn.dooca.store/559/products/1-16_495x495+fill_ffffff+crop_center.png?v=1654601851&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2495198",
+    "name": "Kit Upgrade, Amd Ryzen 5 1600, Gigabyte Ga-A320M",
+    "price": 645.71,
+    "image": "https://cdn.dooca.store/559/products/1-18_495x495+fill_ffffff+crop_center.png?v=1654601906&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2803029",
+    "name": "Kit Upgrade, Amd Ryzen 5 5600G, Gigabyte A520M Ds3H",
+    "price": 1135.79,
+    "image": "https://cdn.dooca.store/559/products/kit-ryzen-5-5600g-a520m_495x495+fill_ffffff+crop_center.png?v=1654050460&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2803034",
+    "name": "Kit Upgrade, Amd Ryzen 5 5600G, Gigabyte A520M Ds3H, 8Gb 3200Mhz Ddr4",
+    "price": 1235.13,
+    "image": "https://cdn.dooca.store/559/products/kit-ryzen-5-5600g-a520m-8gb_495x495+fill_ffffff+crop_center.png?v=1654050457&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "2803033",
+    "name": "Kit Upgrade, Amd Ryzen 5 5600G, Gigabyte A520M Ds3H, 16Gb 3200Mhz (2X8Gb) Ddr4",
+    "price": 1334.47,
+    "image": "https://cdn.dooca.store/559/products/kit-ryzen-5-5600g-a520m-16gb_495x495+fill_ffffff+crop_center.png?v=1654050453&webp=0",
+    "category_slug": "kit-upgrade",
+    "category_name": "Kit Upgrade",
+    "categories": [
+      "kit-upgrade"
+    ]
+  },
+  {
+    "id": "10244729",
+    "name": "Memória RAM Macrovip MAX RGB, 16GB, DDR4, 3200MHz, CL16, MVX32N16/16R",
+    "price": 885.28,
+    "image": "https://cdn.dooca.store/559/products/imgi-2-macrovip-max-ddr4-rgb-single-5-ocvqx_495x495+fill_ffffff+crop_center.png?v=1777985813&webp=0",
+    "category_slug": "memoria",
+    "category_name": "Mem?ria",
+    "categories": [
+      "memoria"
+    ]
+  },
+  {
+    "id": "10271620",
+    "name": "Memória Rise Mode Venon ARGB, 16GB, DDR4, 3200MHz, ARGB, CL19, RM-D4-16G-3200-RGB",
+    "price": 1335.16,
+    "image": "https://cdn.dooca.store/559/products/imgi-12-fb9d64c5798b410389455327c4c5ee51-rpait_495x495+fill_ffffff+crop_center.jpg?v=1778769897&webp=0",
+    "category_slug": "memoria",
+    "category_name": "Mem?ria",
+    "categories": [
+      "memoria"
+    ]
+  },
+  {
+    "id": "10244638",
+    "name": "Memória Kingston FURY Beast,16GB, RGB, DDR5, 5200MHz, CL40, KF552C40BBA-16",
+    "price": 2222.67,
+    "image": "https://cdn.dooca.store/559/products/imgi-2-furydimmrgb1-a0058dcf-b2d0-491d-b0fe-0597367bb337-mvh2a_495x495+fill_ffffff+crop_center.jpg?v=1777983768&webp=0",
+    "category_slug": "memoria",
+    "category_name": "Mem?ria",
+    "categories": [
+      "memoria"
+    ]
+  },
+  {
+    "id": "10227332",
+    "name": "Memória Patriot Signature Line, 16GB, DDR4, 3200MHz, CL22, PSD416G32002",
+    "price": 1069.37,
+    "image": "https://cdn.dooca.store/559/products/imgi-11-1331-aoatp_495x495+fill_ffffff+crop_center.jpg?v=1777486095&webp=0",
+    "category_slug": "memoria",
+    "category_name": "Mem?ria",
+    "categories": [
+      "memoria"
+    ]
+  },
+  {
+    "id": "10223677",
+    "name": "Memória Kingston FURY Beast, 8GB, DDR5, 5600MHz, CL40, KF556C40BB-8",
+    "price": 1062.7,
+    "image": "https://cdn.dooca.store/559/products/imgi-2-furydimm1-bf9efee7-004b-4719-96b6-bec14e05798e-ysvc7_495x495+fill_ffffff+crop_center.jpg?v=1777481893&webp=0",
+    "category_slug": "memoria",
+    "category_name": "Mem?ria",
+    "categories": [
+      "memoria"
+    ]
+  },
+  {
+    "id": "10222255",
+    "name": "Memória Kingston FURY Beast,16GB, RGB, DDR5, 5600MHz, CL40, KF556C40BBA-16",
+    "price": 2254.87,
+    "image": "https://cdn.dooca.store/559/products/jesr4r6ngqgovtxwtxezv0y5syx311tk6eew_495x495+fill_ffffff+crop_center.jpg?v=1777460946&webp=0",
+    "category_slug": "memoria",
+    "category_name": "Mem?ria",
+    "categories": [
+      "memoria"
+    ]
+  },
+  {
+    "id": "8775485",
+    "name": "Gabinete Duex Office Full Black, Preto, Sem Fonte, Sem Fan, DX255-4",
+    "price": 42.78,
+    "image": "https://cdn.dooca.store/559/products/1-949_495x495+fill_ffffff+crop_center.png?v=1749231523&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "8408920",
+    "name": "Gabinete Gamer Gamdias Aura GC8, Mid Tower, Preto, Sem Fonte, Com Fans, AURA GC8",
+    "price": 142.02,
+    "image": "https://cdn.dooca.store/559/products/1-788_495x495+fill_ffffff+crop_center.png?v=1744400817&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "8298527",
+    "name": "Gabinete Gamer Gamdias Atlas M1, Mid Tower, Branco, Sem Fonte, Com Fans, ATLAS M1 WH",
+    "price": 396.96,
+    "image": "https://cdn.dooca.store/559/products/1-756_495x495+fill_ffffff+crop_center.png?v=1743022983&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "7812134",
+    "name": "Gabinete Gamer K-MEX CYBERPUNK, Mid Tower, Branco, Sem Fonte, Sem Fans, CG-W8KI",
+    "price": 243.76,
+    "image": "https://cdn.dooca.store/559/products/1-578_495x495+fill_ffffff+crop_center.png?v=1735309707&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "7646670",
+    "name": "Gabinete Duex Office, Preto, Sem Fonte, Sem Fan, DX255-10-1",
+    "price": 34.2,
+    "image": "https://cdn.dooca.store/559/products/1-507_495x495+fill_ffffff+crop_center.png?v=1732650964&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "7577981",
+    "name": "Gabinete Gamer Liketec Storm, Mid Tower, Preto, Sem Fonte, Com 3 Fans RGB , LC-MT-STORM-V1",
+    "price": 150.79,
+    "image": "https://cdn.dooca.store/559/products/1-473_495x495+fill_ffffff+crop_center.png?v=1731520538&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "7505240",
+    "name": "Gabinete Gamer Ryvel Hymir, Mid Tower, Branco, Sem Fonte, Com Fans, RY-GB-HR-WT",
+    "price": 866.79,
+    "image": "https://cdn.dooca.store/559/products/1-894_495x495+fill_ffffff+crop_center.png?v=1747860224&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "7375994",
+    "name": "Gabinete Gamer Liketec MadRock Snow, Mid Tower, Branco, Sem Fonte, Sem Fans, LC-CB3X2-MADROCK-2077",
+    "price": 270.27,
+    "image": "https://cdn.dooca.store/559/products/1-358_495x495+fill_ffffff+crop_center.png?v=1728507219&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10371094",
+    "name": "Gabinete Duex DXGA275WH, Mid Tower, Branco, Sem Fonte, Sem Fans, DXGA275WH S/LOGO",
+    "price": 87.06,
+    "image": "https://cdn.dooca.store/559/products/5-m6bkn_495x495+fill_ffffff+crop_center.png?v=1781706210&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "4847407",
+    "name": "Gabinete Gamer Fortrek Cruiser, RGB, Mid Tower, Branco, Sem Fonte, Com 3 Fans - 80257",
+    "price": 309.06,
+    "image": "https://cdn.dooca.store/559/products/1-13_495x495+fill_ffffff+crop_center.jpg?v=1701283314&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "4843472",
+    "name": "Gabinete Gamer Vinik VX Gaming Lynx, RGB, Mid Tower, Preto, Sem Fonte, Sem Fan - 30892 (Open Box)",
+    "price": 125.96,
+    "image": "https://cdn.dooca.store/559/products/1-15_495x495+fill_ffffff+crop_center.jpg?v=1701371222&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "4440864",
+    "name": "Gabinete Gamer Gamdias Athena M6 WH ARGB, Mid Tower, Vidro Temperado, ATX, White, Sem Fan",
+    "price": 185.43,
+    "image": "https://cdn.dooca.store/559/products/spmfkrbuwe7gmiejt5udnx7affph3lnd5fig_495x495+fill_ffffff+crop_center.jpg?v=1685030835&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "4083606",
+    "name": "Gabinete Gamer Bluecase Bg-042",
+    "price": 82.87,
+    "image": "https://cdn.dooca.store/559/products/bg-042-001_495x495+fill_ffffff+crop_center.jpg?v=1678544082&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "3948967",
+    "name": "Gabinete Gamer T-Dagger  Preto RGB  Em Acrílico TGC-P03B",
+    "price": 109.27,
+    "image": "https://cdn.dooca.store/559/products/eaguykbt3etbpvouevuh1c4of5gw1bzpgg4c_495x495+fill_ffffff+crop_center.jpg?v=1688489357&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "3761873",
+    "name": "Gabinete Gamer HAYOM, RGB, Mid Tower, Preto, Sem Fonte, Com 4 Fans - GB1749",
+    "price": 148.96,
+    "image": "https://cdn.dooca.store/559/products/1-26_495x495+fill_ffffff+crop_center.png?v=1701291757&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "3660149",
+    "name": "Gabinete Gamer Thermaltake View 37 RGB, Full Tower - Open Box",
+    "price": 1406.49,
+    "image": "https://cdn.dooca.store/559/products/design-sem-nome-3_495x495+fill_ffffff+crop_center.png?v=1720202927&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "2808842",
+    "name": "Gabinete Gamer T-Dagger Cube Black, Mid Tower, Lateral Em Vidro - T-Tgc305B",
+    "price": 152.31,
+    "image": "https://cdn.dooca.store/559/products/design-sem-nome-2-2_495x495+fill_ffffff+crop_center.png?v=1720203188&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10411111",
+    "name": "Gabinete Gamer Redragon View, Mid Tower, Preto, Sem Fonte, Sem Fans, CA-622B",
+    "price": 781.99,
+    "image": "https://cdn.dooca.store/559/products/2-eby8h_495x495+fill_ffffff+crop_center.png?v=1783097283&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10395770",
+    "name": "Gabinete Gamer Gamdias Argus E5, Preto, Mid Tower, Sem fonte, Sem fans, ARGUSE5-BK",
+    "price": 218.13,
+    "image": "https://cdn.dooca.store/559/products/1-megev_495x495+fill_ffffff+crop_center.png?v=1782478031&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10394677",
+    "name": "Gabinete Gamer Kalkan Midgard Curve, Mid Tower, Preto, Sem Fonte, Sem Fans, KLK072",
+    "price": 211.66,
+    "image": "https://cdn.dooca.store/559/products/1-o242n_495x495+fill_ffffff+crop_center.png?v=1782415206&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10391729",
+    "name": "Gabinete Duex, Mid Tower, Preto, Com Fans 3 RGB, DXGA275BK",
+    "price": 87.39,
+    "image": "https://cdn.dooca.store/559/products/4-wtzpe_495x495+fill_ffffff+crop_center.png?v=1782327276&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10390392",
+    "name": "Gabinete Duex DXGA275WH, Mid Tower, Branco, Sem Fonte, Sem Fans, DXGA275WH",
+    "price": 94.61,
+    "image": "https://cdn.dooca.store/559/products/1-4dacz_495x495+fill_ffffff+crop_center.png?v=1782306261&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10321996",
+    "name": "Gabinete Gamer Kalkan Saga, Mid Tower, Preto, Sem Fonte, Sem Fans, KLK00043",
+    "price": 222.83,
+    "image": "https://cdn.dooca.store/559/products/1-iarme_495x495+fill_ffffff+crop_center.png?v=1780323731&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "10233677",
+    "name": "Gabinete Gamer Gamdias Aura GC11 Wood ARGB, Mid Tower, Preto, Sem Fonte, 4 Fans, AURA GC11",
+    "price": 243.58,
+    "image": "https://cdn.dooca.store/559/products/jfkwtyqh03w1jfykhzg68ofnb3gaz3c5vlfi_495x495+fill_ffffff+crop_center.jpg?v=1777492663&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "8886485",
+    "name": "Gabinete Gamer Duex, Mid Tower, Preto, Sem Fonte, Sem Fans, DXJ250-2 BK",
+    "price": 99.99,
+    "image": "https://cdn.dooca.store/559/products/1-972_495x495+fill_ffffff+crop_center.png?v=1750957938&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "8869621",
+    "name": "Gabinete Gamer HAYOM, Mid Tower, Preto, Sem Fonte, Com Fans, GB1792",
+    "price": 149.96,
+    "image": "https://cdn.dooca.store/559/products/1-969_495x495+fill_ffffff+crop_center.png?v=1750712388&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "8620957",
+    "name": "Gabinete Gamer Gamdias Aura GC1 Elite, Mid Tower, Branco, Com Fans, AURA GC1 ELITE WH",
+    "price": 243.84,
+    "image": "https://cdn.dooca.store/559/products/1-871_495x495+fill_ffffff+crop_center.png?v=1747339407&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "8620054",
+    "name": "Gabinete Gamer Gamdias Aura GC4 Elite, Mid Tower, Preto, Sem Fonte, Com Fans, AURA GC4 ELITE ARGB",
+    "price": 295.05,
+    "image": "https://cdn.dooca.store/559/products/1-869_495x495+fill_ffffff+crop_center.png?v=1747336463&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "8618559",
+    "name": "Gabinete Gamer Kalkan Alfern, Mid Tower, Preto, Sem Fonte, Sem Fans, KLK00034",
+    "price": 198.97,
+    "image": "https://cdn.dooca.store/559/products/1-865_495x495+fill_ffffff+crop_center.png?v=1747331124&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "8618276",
+    "name": "Gabinete Gamer Duex, Mid Tower, Branco, Sem Fonte, Sem Fans, DXJ270-2 WH",
+    "price": 142.77,
+    "image": "https://cdn.dooca.store/559/products/1-864_495x495+fill_ffffff+crop_center.png?v=1747329789&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "8578153",
+    "name": "Gabinete Gamer Lian Li LANCOOL 215, Mid Tower, Branco, Sem Fonte, Com Fans, LANCOOL 215W WHITE",
+    "price": 502.96,
+    "image": "https://cdn.dooca.store/559/products/1-837_495x495+fill_ffffff+crop_center.png?v=1746650350&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "8578085",
+    "name": "Gabinete Gamer Lian Li LANCOOL 215, Mid Tower, Preto, Sem Fonte, Com Fans, LANCOOL 215X BLACK",
+    "price": 482.93,
+    "image": "https://cdn.dooca.store/559/products/1-836_495x495+fill_ffffff+crop_center.png?v=1746649905&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "8577841",
+    "name": "Gabinete Gamer Lian Li LANCOOL 207, Mid Tower, Branco, Sem Fonte, Com Fans, LANCOOL 207RW",
+    "price": 578.89,
+    "image": "https://cdn.dooca.store/559/products/1-835_495x495+fill_ffffff+crop_center.png?v=1746649008&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "8577769",
+    "name": "Gabinete Gamer Lian Li LANCOOL 207, Mid Tower, Preto, Sem Fonte, Com Fans, LANCOOL 207RX",
+    "price": 512.43,
+    "image": "https://cdn.dooca.store/559/products/1-834_495x495+fill_ffffff+crop_center.png?v=1746648449&webp=0",
+    "category_slug": "gabinete",
+    "category_name": "Gabinete",
+    "categories": [
+      "gabinete"
+    ]
+  },
+  {
+    "id": "8968753",
+    "name": "Fonte Duex Pulse Pro, 1000W, Full Modular, 80 Plus Gold, Cybenetics, TecLab, PFC Ativo, DXFOPRO1000WG3W",
+    "price": 636.46,
+    "image": "https://cdn.dooca.store/559/products/1-979_495x495+fill_ffffff+crop_center.png?v=1752260008&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "7652464",
+    "name": "Fonte Duex DX 500FSE+, 500W, 80 Plus Bronze, PFC Ativo, Com Cabo, DX500FSE2046115",
+    "price": 125.98,
+    "image": "https://cdn.dooca.store/559/products/1-514_495x495+fill_ffffff+crop_center.png?v=1732731324&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "6644450",
+    "name": "Fonte Duex DX 600FSE+, 600W, 80 Plus Bronze, PFC Ativo, DX600FSE2031816",
+    "price": 149.23,
+    "image": "https://cdn.dooca.store/559/products/1-70-1_495x495+fill_ffffff+crop_center.png?v=1718744462&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "5341463",
+    "name": "Fonte PCYES SHOCKER White 600W 80 Plus - PF600SHW",
+    "price": 179.56,
+    "image": "https://cdn.dooca.store/559/products/pf600shw_495x495+fill_ffffff+crop_center.jpg?v=1712663898&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "4718359",
+    "name": "Fonte PCYES Electro V2 White 400W 80 Plus - ELV2WHPTO400W",
+    "price": 185.37,
+    "image": "https://cdn.dooca.store/559/products/p6hjl2kbgkzig7sef2fo6n6lbxjoqhyv5mdj_495x495+fill_ffffff+crop_center.jpg?v=1690315533&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "4718357",
+    "name": "Fonte PCYES Electro V2 White 600W 80 Plus - ELV2WHPTO600W",
+    "price": 247.44,
+    "image": "https://cdn.dooca.store/559/products/jju2jiws8mr8dodkbbimm6b8njtnsxzhazek_495x495+fill_ffffff+crop_center.jpg?v=1690315526&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "4718354",
+    "name": "Fonte PCYES Electro V2 Bronze 650W 80 Plus - ELECV2PTO650W",
+    "price": 206.89,
+    "image": "https://cdn.dooca.store/559/products/mbupi5a9gt2pevfnijnsan960gwi8vkcmopo_495x495+fill_ffffff+crop_center.jpg?v=1690315513&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "3705284",
+    "name": "Fonte PCYES Electro V2 Bronze 750W 80 Plus - ELECV2PTO750W",
+    "price": 245.77,
+    "image": "https://cdn.dooca.store/559/products/ak3ekuo4egztv6ww4wdcc2jfmon6y7fh0et4_495x495+fill_ffffff+crop_center.jpg?v=1669463123&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "2354131",
+    "name": "Fonte PCYES Electro V2 White 500W 80 Plus - ELV2WHPTO500W",
+    "price": 230.88,
+    "image": "https://cdn.dooca.store/559/products/10213516a626a8c187e720d69f252f78_495x495+fill_ffffff+crop_center.png?v=1654176938&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "10348590",
+    "name": "Fonte Kalkan MaxPower, 650W, 80 Plus Bronze, PFC Ativo, MP-0750W-B",
+    "price": 270.7,
+    "image": "https://cdn.dooca.store/559/products/71a6c2-c8cb333dd8054aab8295b9519abac551mv2-qhmeq_495x495+fill_ffffff+crop_center.jpg?v=1781197034&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "10348532",
+    "name": "Fonte Kalkan MaxPower, 550W, 80 Plus Bronze, PFC Ativo, MP-0650W-B",
+    "price": 245.59,
+    "image": "https://cdn.dooca.store/559/products/fonte1-yosve_495x495+fill_ffffff+crop_center.jpg?v=1781195863&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "10248482",
+    "name": "Fonte Duex DX 600FSE+ White, 600W, 80 Plus, Branca, Bronze, PFC Ativo, Com Cabo, DX 600FSE+ White",
+    "price": 169.71,
+    "image": "https://cdn.dooca.store/559/products/ttedotwtxyogww85i3yg3ybrx3onmlk0ru4d_495x495+fill_ffffff+crop_center.jpg?v=1778074616&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "10248470",
+    "name": "Fonte Duex Pulse Pro, 650W, 80 Plus Bronze, TecLab, PFC Ativo, DXFOPRO650WBFSE+",
+    "price": 271.68,
+    "image": "https://cdn.dooca.store/559/products/vgzqx5brv9gbfwxl2xnpwmg4bdzhvtg1m3hc_495x495+fill_ffffff+crop_center.jpg?v=1778074399&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "10248446",
+    "name": "Fonte Duex Pulse Pro White, 650W, Branca 80 Plus Bronze, TecLab, PFC Ativo, DXFOPRO650WBFSE+W",
+    "price": 374.77,
+    "image": "https://cdn.dooca.store/559/products/s7guv1yvukngr070jxeiiznwyxlvx1bxlp4d_495x495+fill_ffffff+crop_center.jpg?v=1778074070&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "10233359",
+    "name": "Fonte Redragon RGPS, 850W, RGB, Branco, 80 Plus Bronze, PCI-E 5.1, ATX 3.1 PFC Ativo, GC-PS007W-1 V2",
+    "price": 725.82,
+    "image": "https://cdn.dooca.store/559/products/imgi-101-fonte-gamer-redragon-850w-rgb-80-plus-gold-branco-gc-ps007w-1-v2-1757015256-original-7rz5q_495x495+fill_ffffff+crop_center.jpg?v=1777491024&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "10232093",
+    "name": "Fonte Pichau Nidus 750L, 750w, 80 Plus Bronze, PFC Ativo, Preta, PG-NDL750-01BR",
+    "price": 413.57,
+    "image": "https://cdn.dooca.store/559/products/imgi-2-pg-ndl550-01br-zbkz3_495x495+fill_ffffff+crop_center.jpg?v=1777489634&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "9420953",
+    "name": "Fonte Mymax MPSU/FP650W, 600W, 80 Plus Bronze, PFC Ativo",
+    "price": 275.94,
+    "image": "https://cdn.dooca.store/559/products/1-1026_495x495+fill_ffffff+crop_center.png?v=1759776957&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "9290006",
+    "name": "Fonte REVENGER Maximus, 550W, 80 Plus Bronze, PFC Ativo, FO-MAX01",
+    "price": 283.97,
+    "image": "https://cdn.dooca.store/559/products/1-1004_495x495+fill_ffffff+crop_center.png?v=1757612405&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "9199805",
+    "name": "Fonte Mymax MPSU/FP550W, 500W, 80 Plus Bronze, PFC Ativo",
+    "price": 199.8,
+    "image": "https://cdn.dooca.store/559/products/1-984_495x495+fill_ffffff+crop_center.png?v=1756319084&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "9167014",
+    "name": "Fonte Fortrek Black Hawk, 400W, 80 Plus White, PFC Ativo, 70458",
+    "price": 188.72,
+    "image": "https://cdn.dooca.store/559/products/1-703_495x495+fill_ffffff+crop_center.png?v=1755805267&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "9166688",
+    "name": "Fonte Thermaltake Smart BX3, 750W, 80 Plus Bronze, PFC Ativo, Preto, PS-SPD-0750NNFABB-3",
+    "price": 462.7,
+    "image": "https://cdn.dooca.store/559/products/1-702_495x495+fill_ffffff+crop_center.png?v=1755803634&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "9165878",
+    "name": "Fonte Thermaltake Smart, 700W, 80 Plus White, PFC Ativo, Preto, PS-SPD-0700NPCWBZ-W",
+    "price": 389.99,
+    "image": "https://cdn.dooca.store/559/products/1-701_495x495+fill_ffffff+crop_center.png?v=1755800537&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "9165207",
+    "name": "Fonte Thermaltake Smart BX1, 650W, 80 Plus Bronze, PFC Ativo, Preto, PS-SPD-0650NNFABB-4",
+    "price": 409.54,
+    "image": "https://cdn.dooca.store/559/products/1-700_495x495+fill_ffffff+crop_center.png?v=1755797231&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "9160708",
+    "name": "Fonte MSI MAG A600DN, 600W, 80 Plus Bronze, PFC Ativo, Preto, 306-7ZP6B39-809",
+    "price": 338.03,
+    "image": "https://cdn.dooca.store/559/products/1-699_495x495+fill_ffffff+crop_center.png?v=1755723620&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "8968989",
+    "name": "Fonte Duex DX 850FSE++, 850W, Full Modular, 80 Plus Bronze, PFC Ativo, Com Cabo",
+    "price": 369.74,
+    "image": "https://cdn.dooca.store/559/products/1-980_495x495+fill_ffffff+crop_center.png?v=1752261075&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "8968517",
+    "name": "Fonte Duex Pulse Pro, 850W, Full Modular, 80 Plus Gold, Cybenetics, TecLab, PFC Ativo, DXFOPRO850WG3W",
+    "price": 524.89,
+    "image": "https://cdn.dooca.store/559/products/1-978_495x495+fill_ffffff+crop_center.png?v=1752258196&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "8878409",
+    "name": "Fonte Duex Pulse Pro White Edition, 800W, Full Modular, Cybenetics Gold, PFC Ativo, DXFOPRO800WGW",
+    "price": 430.18,
+    "image": "https://cdn.dooca.store/559/products/1-970_495x495+fill_ffffff+crop_center.png?v=1750873328&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "8792534",
+    "name": "Fonte Deepcool PL750D, 750W, 80 Plus Bronze, Cybenetics Silver, PFC Ativo, R-PL750D-FC0B-WO-V2",
+    "price": 453.34,
+    "image": "https://cdn.dooca.store/559/products/1-953_495x495+fill_ffffff+crop_center.png?v=1749579263&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "8792356",
+    "name": "Fonte Deepcool PL650D, 650W, 80 Plus Bronze, Cybenetics Silver, PFC Ativo, R-PL650D-FC0B-WO-V2",
+    "price": 343.4,
+    "image": "https://cdn.dooca.store/559/products/1-952_495x495+fill_ffffff+crop_center.png?v=1749578823&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "8775385",
+    "name": "Fonte Duex Pulse Pro, 600W, 80 Plus Bronze, TecLab, PFC Ativo, DXFOPRO600FSE+",
+    "price": 268.31,
+    "image": "https://cdn.dooca.store/559/products/1-948_495x495+fill_ffffff+crop_center.png?v=1749230174&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "8509924",
+    "name": "Fonte Redragon RGPS, 600W, 80 Plus Bronze, PFC Ativo, GC-PS024",
+    "price": 225.57,
+    "image": "https://cdn.dooca.store/559/products/1-801_495x495+fill_ffffff+crop_center.png?v=1745871071&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "8509783",
+    "name": "Fonte Gamdias Cyclops M1 RGB, 750W, 80 Plus Bronze, PFC Ativo, M1-750B RGB",
+    "price": 285.33,
+    "image": "https://cdn.dooca.store/559/products/1-800_495x495+fill_ffffff+crop_center.png?v=1745870535&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "8370392",
+    "name": "Fonte Redragon RGPS 500W, 80 Plus White, PFC Ativo, GC-PS021",
+    "price": 224.55,
+    "image": "https://cdn.dooca.store/559/products/1-767_495x495+fill_ffffff+crop_center.png?v=1744046130&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "8147199",
+    "name": "Fonte Duex DX500FSE++, 500W, 80 Plus Bronze, Full Modular, PFC Ativo",
+    "price": 179.07,
+    "image": "https://cdn.dooca.store/559/products/1-688_495x495+fill_ffffff+crop_center.png?v=1740685161&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "7808528",
+    "name": "Fonte Duex Pulse Pro, 850W, Full Modular, 80 Plus Gold, Cybenetics, TecLab, PFC Ativo, DXFOPRO850WG3",
+    "price": 589.4,
+    "image": "https://cdn.dooca.store/559/products/1-566_495x495+fill_ffffff+crop_center.png?v=1735226904&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "7808399",
+    "name": "Fonte Duex Pulse Pro, 1000W, Full Modular, 80 Plus Gold, Cybenetics, TecLab, PFC Ativo, DXFOPRO1000WG3",
+    "price": 743.2,
+    "image": "https://cdn.dooca.store/559/products/1-568_495x495+fill_ffffff+crop_center.png?v=1735226128&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "7808265",
+    "name": "Fonte Redragon RGPS RGB, 750W, Full Modular, 80 Plus Gold, PFC Ativo, GC-PS006-1",
+    "price": 437.03,
+    "image": "https://cdn.dooca.store/559/products/1-567_495x495+fill_ffffff+crop_center.png?v=1735224452&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "7804994",
+    "name": "Fonte Duex Pulse Pro, 500W, 80 Plus Bronze, TecLab, PFC Ativo, DXFOPRO500WBFSE+",
+    "price": 211.95,
+    "image": "https://cdn.dooca.store/559/products/1-560_495x495+fill_ffffff+crop_center.png?v=1735049147&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "7804918",
+    "name": "Fonte Gamdias Cyclops M1 RGB, 550W, 80 Plus Bronze, PFC Ativo, M1-550B",
+    "price": 221.46,
+    "image": "https://cdn.dooca.store/559/products/1-559_495x495+fill_ffffff+crop_center.png?v=1735048353&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "7804790",
+    "name": "Fonte Duex Pulse Pro, 800W, Full Modular, Cybenetics Gold, PFC Ativo, DXFOPRO800WG",
+    "price": 489.32,
+    "image": "https://cdn.dooca.store/559/products/1-558_495x495+fill_ffffff+crop_center.png?v=1735047064&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "7637900",
+    "name": "Fonte GAMDIAS KRATOS, 600W, 80 Plus Bronze, PFC Ativo, M1-600B",
+    "price": 305.83,
+    "image": "https://cdn.dooca.store/559/products/1-498_495x495+fill_ffffff+crop_center.png?v=1732556725&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "7586000",
+    "name": "Fonte Gamemax, 650W, 80 Plus Bronze, PFC Ativo, Com Cabo, GP650",
+    "price": 252.71,
+    "image": "https://cdn.dooca.store/559/products/1-482_495x495+fill_ffffff+crop_center.png?v=1731617272&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "7585990",
+    "name": "Fonte Gamemax, 600W, 80 Plus White, PFC Ativo, GS600",
+    "price": 214.63,
+    "image": "https://cdn.dooca.store/559/products/1-475_495x495+fill_ffffff+crop_center.png?v=1731616977&webp=0",
+    "category_slug": "fonte",
+    "category_name": "Fonte",
+    "categories": [
+      "fonte"
+    ]
+  },
+  {
+    "id": "4763186",
+    "name": "Headset Gamer Razer BlackShark V2 X, Surround 7.1, Drivers 50mm, P3, Verde - RZ04-03240600-R3U1",
+    "price": 248.35,
+    "image": "https://cdn.dooca.store/559/products/48izxxl9zdeg0j14pfgzryrax1fyq1jrvluz_495x495+fill_ffffff+crop_center.jpg?v=1690985055&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "3882399",
+    "name": "Headset Gamer Redragon Scylla Lunar White, Branco - H901W",
+    "price": 67.88,
+    "image": "https://cdn.dooca.store/559/products/pi3vwherxi7lubmbkna8hi31onbvjooif54w_495x495+fill_ffffff+crop_center.png?v=1674147500&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "3750222",
+    "name": "Headset Gamer Motospeed G750, RGB, 7.1 Virtual, Drivers 40mm, USB, Preto - FMSHS0069PTO",
+    "price": 123.35,
+    "image": "https://cdn.dooca.store/559/products/u7p1icajjw7owud94px1xyu0ytfx31wxez1n_495x495+fill_ffffff+crop_center.jpg?v=1670674667&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "2983251",
+    "name": "Headset Gamer Redragon Scylla, Black - H901",
+    "price": 67.88,
+    "image": "https://cdn.dooca.store/559/products/tynpa1r0esfrqk8vz5ozkiofqs6v7y00ivwi_495x495+fill_ffffff+crop_center.jpg?v=1684171827&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "8521103",
+    "name": "Headset Gamer Evolut Starter, P2, Preto, EG-308",
+    "price": 32.75,
+    "image": "https://cdn.dooca.store/559/products/1-804_495x495+fill_ffffff+crop_center.png?v=1745953779&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "7914546",
+    "name": "Headset Gamer Redragon Luna, USB, P2, Branco, H540W",
+    "price": 289.85,
+    "image": "https://cdn.dooca.store/559/products/1-656_495x495+fill_ffffff+crop_center.png?v=1738582103&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "7914447",
+    "name": "Headset Gamer Redragon Hero, P3, Branco, H530-W",
+    "price": 224.61,
+    "image": "https://cdn.dooca.store/559/products/1-630_495x495+fill_ffffff+crop_center.png?v=1737487504&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "7914316",
+    "name": "Headset Gamer Redragon Hero, P3, Preto, H530",
+    "price": 238.84,
+    "image": "https://cdn.dooca.store/559/products/1-629_495x495+fill_ffffff+crop_center.png?v=1737486751&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "7913742",
+    "name": "Headset Gamer Redragon Medea, USB, P2, Branco, H280W",
+    "price": 132.18,
+    "image": "https://cdn.dooca.store/559/products/1-628_495x495+fill_ffffff+crop_center.png?v=1737483759&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "7913615",
+    "name": "Headset Gamer Redragon Medea, USB, P2, Preto, H280",
+    "price": 276.94,
+    "image": "https://cdn.dooca.store/559/products/1-627_495x495+fill_ffffff+crop_center.png?v=1737482950&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "7618993",
+    "name": "Headset Gamer K-MEX AR63, 7.1, USB, LED, Preto, AR6324SS22PPB0X",
+    "price": 65.72,
+    "image": "https://cdn.dooca.store/559/products/1-493_495x495+fill_ffffff+crop_center.png?v=1732218171&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "7465070",
+    "name": "Headset Gamer Vinik V Blade III, USB, LED, Preto, Open Box, VKHSGVIII",
+    "price": 38.56,
+    "image": "https://cdn.dooca.store/559/products/1-406_495x495+fill_ffffff+crop_center.png?v=1729803141&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "7457043",
+    "name": "Headset Gamer Redragon Diomedes, USB+3.5mm, Som Surround 7.1, Drivers 53mm, Preto, H388",
+    "price": 149.67,
+    "image": "https://cdn.dooca.store/559/products/1-418_495x495+fill_ffffff+crop_center.png?v=1729875976&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "7457042",
+    "name": "Headset Gamer Redragon Lamia 2 H320 RGB, Drivers 40mm, Surround 7.1, Preto, Suporte Incluso, H320RGB-1",
+    "price": 159.36,
+    "image": "https://cdn.dooca.store/559/products/1-417_495x495+fill_ffffff+crop_center.png?v=1729874742&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "7457041",
+    "name": "Headset Gamer Redragon Minos Lunar White H210W, Surround 7.1, White, USB, H210W",
+    "price": 93.48,
+    "image": "https://cdn.dooca.store/559/products/1-416_495x495+fill_ffffff+crop_center.png?v=1729807562&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "7457040",
+    "name": "Headset Gamer Redragon Zeus Pro, Sem Fio, Bluetooth, Microfone Destacável, Surround 7.1, Driver 53mm, Branco, H510W-PRO",
+    "price": 361.14,
+    "image": "https://cdn.dooca.store/559/products/1-415_495x495+fill_ffffff+crop_center.png?v=1729807285&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "7457039",
+    "name": "Headset Gamer Sem Fio Redragon Zeus Pro, 7.1, Driver 53mm, Bluetooth, Preto, H510-PRO",
+    "price": 364.21,
+    "image": "https://cdn.dooca.store/559/products/1-414_495x495+fill_ffffff+crop_center.png?v=1729806876&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "6708719",
+    "name": "Headset Gamer T-Dagger Ural, P2, LED, Preto, T-RGH202",
+    "price": 50.5,
+    "image": "https://cdn.dooca.store/559/products/1-228_495x495+fill_ffffff+crop_center.png?v=1719950836&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "6570936",
+    "name": "Headset Gamer K-MEX AR89, 7.1, USB, LED, Preto, AR8932SS21PTB0X",
+    "price": 49.59,
+    "image": "https://cdn.dooca.store/559/products/1-77_495x495+fill_ffffff+crop_center.png?v=1717528698&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "2099830",
+    "name": "Fone Headset Gamer Taranis V2 P2 Com Microfone - Preto E Azul",
+    "price": 59.33,
+    "image": "https://cdn.dooca.store/559/products/9t2mduorgwydjekbjpbjunherjlquutbn5th_495x495+fill_ffffff+crop_center.jpg?v=1654084979&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "6479136",
+    "name": "Headset Vinik Gamer V Blade III USB, Led Rainbow, VKHSGVIII",
+    "price": 38.56,
+    "image": "https://cdn.dooca.store/559/products/dyqb2qqwfowlm1zswiqu3flqqy6qfslycs74_495x495+fill_ffffff+crop_center.jpeg?v=1715965788&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "6479034",
+    "name": "Headset Biauricular Intelbras Usb Whs 60 Duo Preto, CVCN90245",
+    "price": 113.18,
+    "image": "https://cdn.dooca.store/559/products/zkgcqf7hfnx2hmrez5nsutkzllqgugblsybt_495x495+fill_ffffff+crop_center.png?v=1715965422&webp=0",
+    "category_slug": "headset",
+    "category_name": "Headset",
+    "categories": [
+      "headset"
+    ]
+  },
+  {
+    "id": "8448895",
+    "name": "Mouse Gamer Redragon King Pro, 26.000 DPI, 4000Hz, RGB, Sem Fio, Branco, M916W-PRO-4K",
+    "price": 395.45,
+    "image": "https://cdn.dooca.store/559/products/1-793_495x495+fill_ffffff+crop_center.png?v=1744918023&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "8372947",
+    "name": "Mouse Gamer Keytime BESTTECK, 1.600 DPI, Sem Fio, Preto, KYT00007",
+    "price": 22.34,
+    "image": "https://cdn.dooca.store/559/products/1-771_495x495+fill_ffffff+crop_center.png?v=1744058650&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "6708127",
+    "name": "Mouse VX Pro VX M365, 1.000 DPI, Com Fio, Preto",
+    "price": 3.36,
+    "image": "https://cdn.dooca.store/559/products/1-226_495x495+fill_ffffff+crop_center.png?v=1719946597&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "4766444",
+    "name": "Mouse Gamer Glorious Model D, RGB, 6 Botões, 12000DPI, Preto - GD-BLACK",
+    "price": 562.93,
+    "image": "https://cdn.dooca.store/559/products/3zizgepiqcyltc4siosgwwdrefzbjnbktubm_495x495+fill_ffffff+crop_center.jpg?v=1691006433&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "2138111",
+    "name": "Mouse Gamer Redragon Storm Elite, Rgb, 8 Botões, 16000 Dpi - M988-Rgb",
+    "price": 179.16,
+    "image": "https://cdn.dooca.store/559/products/cn8br73lrkne8kbzt6ktaj1g6lfyygx0pkoi_495x495+fill_ffffff+crop_center.jpg?v=1654019786&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "2138110",
+    "name": "Mouse Gamer Redragon Storm Elite, 16000Dpi, Chroma Mark Ii, Sensor Pixart 3389, 8 Botões, Usb, Lunar White - M988W-Rgb",
+    "price": 130.23,
+    "image": "https://cdn.dooca.store/559/products/x1u7xmdrtft1qkkqgh4mt47g2ftcvk7zf7et_495x495+fill_ffffff+crop_center.jpg?v=1654019777&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "8373105",
+    "name": "Mouse Gamer Keytime SMART ONE, 1.600 DPI, Sem Fio, Preto, KYT00008",
+    "price": 22.71,
+    "image": "https://cdn.dooca.store/559/products/1-772_495x495+fill_ffffff+crop_center.png?v=1744059497&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "8372787",
+    "name": "Mouse Gamer Keytime VANGUARD, 2.400 DPI, RGB, Com Fio, Preto, KYT00005",
+    "price": 13.81,
+    "image": "https://cdn.dooca.store/559/products/1-770_495x495+fill_ffffff+crop_center.png?v=1744057335&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "7914761",
+    "name": "Mouse Gamer Redragon Cobra Pro, 16.000 DPI, RGB, Sem Fio, Preto, M711-PRO",
+    "price": 214.97,
+    "image": "https://cdn.dooca.store/559/products/1-632_495x495+fill_ffffff+crop_center.png?v=1737489276&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "7896142",
+    "name": "Mouse Chinamate, 1.000 DPI, 3 Botões, Com Fio, Preto, CM-16",
+    "price": 9.6,
+    "image": "https://cdn.dooca.store/559/products/1-623_495x495+fill_ffffff+crop_center.png?v=1737143374&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "7894494",
+    "name": "Mouse Gamer Redragon Cobra Pro Lunar, RGB, 16.000 DPI, 8 Botões, Sem Fio, Branco, M711W-PRO",
+    "price": 125.82,
+    "image": "https://cdn.dooca.store/559/products/1-620_495x495+fill_ffffff+crop_center.png?v=1737136035&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "7584936",
+    "name": "Mouse Gamer Redragon Cobra, RGB, 10.000 DPI, 7 Botões, Com Fio, Preto, M711",
+    "price": 93.39,
+    "image": "https://cdn.dooca.store/559/products/1-481_495x495+fill_ffffff+crop_center.png?v=1731611016&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "7465076",
+    "name": "Mouse Gamer S29 7200 DPI, 7 Botões, LED RGB, Cabo 1.8M - MVS29RGB",
+    "price": 8278.34,
+    "image": "https://cdn.dooca.store/559/products/1-410_495x495+fill_ffffff+crop_center.png?v=1729804293&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "7457059",
+    "name": "Mouse Gamer Redragon King Pro, Wireless, Bluetooth, 26000 DPI, 6 Botões, Preto, M916-PRO-1K",
+    "price": 162.06,
+    "image": "https://cdn.dooca.store/559/products/1-877_495x495+fill_ffffff+crop_center.png?v=1747687741&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "7457033",
+    "name": "Mouse Gamer Redragon Cobra, Chroma RGB, 10000DPI, 7 Botões, Lunar White, M711W",
+    "price": 92.65,
+    "image": "https://cdn.dooca.store/559/products/1-401_495x495+fill_ffffff+crop_center.png?v=1729792557&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "7457032",
+    "name": "Mouse Gamer Redragon King Cobra FPS RGB, 24000 DPI, 7 Botões Programáveis, Lunar White, M711W-FPS",
+    "price": 133.49,
+    "image": "https://cdn.dooca.store/559/products/1-400_495x495+fill_ffffff+crop_center.png?v=1729792337&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "7457031",
+    "name": "Mouse Gamer Redragon Nothosaur, 3200 DPI, 6 Botões Programáveis, White, M606W",
+    "price": 82.78,
+    "image": "https://cdn.dooca.store/559/products/2-397_495x495+fill_ffffff+crop_center.png?v=1729717429&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "7457030",
+    "name": "Mouse Gamer Redragon Storm Elite, 16000 DPI, 8 Botões Programáveis, Black, M988-RGB",
+    "price": 163.57,
+    "image": "https://cdn.dooca.store/559/products/1-399_495x495+fill_ffffff+crop_center.png?v=1729716491&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "7457029",
+    "name": "Mouse Gamer Redragon Storm Pro, 16000 DPI, Wireless, 8 Botões Programáveis, RGB, Black, M808-KS",
+    "price": 112.57,
+    "image": "https://cdn.dooca.store/559/products/1-398_495x495+fill_ffffff+crop_center.png?v=1729716415&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "7457028",
+    "name": "Mouse Gamer Redragon Storm, 12400DPI, 7 Botões Programáveis, RGB, Black, M808-RGB",
+    "price": 124.18,
+    "image": "https://cdn.dooca.store/559/products/1-397_495x495+fill_ffffff+crop_center.png?v=1729715988&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "6479151",
+    "name": "Mouse Gamer Vinik G12, USB, 7200DPI, MVG12RGB",
+    "price": 39.87,
+    "image": "https://cdn.dooca.store/559/products/cb38rc4kzabguoc2kdamxhosblmecffqhby7_495x495+fill_ffffff+crop_center.jpeg?v=1715966331&webp=0",
+    "category_slug": "mouse",
+    "category_name": "Mouse",
+    "categories": [
+      "mouse"
+    ]
+  },
+  {
+    "id": "7505234",
+    "name": "Mousepad Gamer Ryvel, Grande, 800x300mm, Pink, RY-MP-RGB-PK",
+    "price": 29.32,
+    "image": "https://cdn.dooca.store/559/products/1-447_495x495+fill_ffffff+crop_center.png?v=1730402690&webp=0",
+    "category_slug": "mouse-pad",
+    "category_name": "Mouse Pad",
+    "categories": [
+      "mouse-pad"
+    ]
+  },
+  {
+    "id": "7807656",
+    "name": "Mousepad Gamer Ryvel, Grande, 800x300mm, Preto, RY-MP-RGB-BL",
+    "price": 36.23,
+    "image": "https://cdn.dooca.store/559/products/1-569_495x495+fill_ffffff+crop_center.png?v=1735227108&webp=0",
+    "category_slug": "mouse-pad",
+    "category_name": "Mouse Pad",
+    "categories": [
+      "mouse-pad"
+    ]
+  },
+  {
+    "id": "7807559",
+    "name": "Mousepad Gamer Ryvel, Grande, 800x300mm, Branco, RY-MP-CL-WT",
+    "price": 32.29,
+    "image": "https://cdn.dooca.store/559/products/1-565_495x495+fill_ffffff+crop_center.png?v=1735221395&webp=0",
+    "category_slug": "mouse-pad",
+    "category_name": "Mouse Pad",
+    "categories": [
+      "mouse-pad"
+    ]
+  },
+  {
+    "id": "7807398",
+    "name": "Mousepad Gamer Ryvel, Grande, 800x300mm, Pink, RY-MP-CL-PK",
+    "price": 36.23,
+    "image": "https://cdn.dooca.store/559/products/1-564_495x495+fill_ffffff+crop_center.png?v=1735219592&webp=0",
+    "category_slug": "mouse-pad",
+    "category_name": "Mouse Pad",
+    "categories": [
+      "mouse-pad"
+    ]
+  },
+  {
+    "id": "7579436",
+    "name": "Mousepad Gamer Ryvel, Grande, 800x300mm, Preto, RY-MP-CL-BL",
+    "price": 32.29,
+    "image": "https://cdn.dooca.store/559/products/1-476_495x495+fill_ffffff+crop_center.png?v=1731529921&webp=0",
+    "category_slug": "mouse-pad",
+    "category_name": "Mouse Pad",
+    "categories": [
+      "mouse-pad"
+    ]
+  },
+  {
+    "id": "7505233",
+    "name": "Mousepad Gamer Ryvel, Grande, 800x300mm, Branco, RY-MP-RGB-WT",
+    "price": 36.23,
+    "image": "https://cdn.dooca.store/559/products/1-446_495x495+fill_ffffff+crop_center.png?v=1730402217&webp=0",
+    "category_slug": "mouse-pad",
+    "category_name": "Mouse Pad",
+    "categories": [
+      "mouse-pad"
+    ]
+  },
+  {
+    "id": "7465077",
+    "name": "Mouse Pad Gamer PCYES Dragon Extended Speed 900x420mm - PMD90X42",
+    "price": 8278.34,
+    "image": "https://cdn.dooca.store/559/products/1-411_495x495+fill_ffffff+crop_center.png?v=1729804554&webp=0",
+    "category_slug": "mouse-pad",
+    "category_name": "Mouse Pad",
+    "categories": [
+      "mouse-pad"
+    ]
+  },
+  {
+    "id": "7465071",
+    "name": "Mouse Pad Gamer PCYES Tiger Extended Speed 900x420mm - PMT90X42",
+    "price": 8278.34,
+    "image": "https://cdn.dooca.store/559/products/1-407_495x495+fill_ffffff+crop_center.png?v=1729803390&webp=0",
+    "category_slug": "mouse-pad",
+    "category_name": "Mouse Pad",
+    "categories": [
+      "mouse-pad"
+    ]
+  },
+  {
+    "id": "10321734",
+    "name": "Kit Teclado e Mouse Cooler Master Devastator 3, 4.800 DPI, ABNT2, RGB, Preto, SGB-3000-KKMF4-BR",
+    "price": 178.92,
+    "image": "https://cdn.dooca.store/559/products/2-dtjge_495x495+fill_ffffff+crop_center.png?v=1780318351&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "4623859",
+    "name": "Kit Gamer Teclado, Mouse e Headset Kraken V2 - Mouse 2400 Dpi Led 3 Cores Cabo Usb 1.8 Metros",
+    "price": 125.64,
+    "image": "https://cdn.dooca.store/559/products/sem-titulddo-1_495x495+fill_ffffff+crop_center.png?v=1688755074&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "4037343",
+    "name": "Kit Teclado e Mouse Sem Fio Dynamic - Teclado Compacto - Mouse 1600dpi - Vinik - Dc100",
+    "price": 51.52,
+    "image": "https://cdn.dooca.store/559/products/cbo0f12xcfmrfx2faquores3urjszknyyvwe_495x495+fill_ffffff+crop_center.jpg?v=1677500887&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "10322317",
+    "name": "Kit Gamer Kalkan Odin Lite, 3.600 DPI, ABNT2, LED, Preto, KLK00060",
+    "price": 109.0,
+    "image": "https://cdn.dooca.store/559/products/kit-gamerteclado-mouse-mousepad-headset-kalkan-odin-noqhs_495x495+fill_ffffff+crop_center.png?v=1780336306&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "8639497",
+    "name": "Kit Gamer Evolut Vital, Teclado e Mouse, EG-57",
+    "price": 47.02,
+    "image": "https://cdn.dooca.store/559/products/1-876_495x495+fill_ffffff+crop_center.png?v=1747686614&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "8510425",
+    "name": "Kit Gamer Kalkan Odin, 3.600 DPI, ABNT2, LED, Preto, KLK00017",
+    "price": 114.66,
+    "image": "https://cdn.dooca.store/559/products/1-803_495x495+fill_ffffff+crop_center.png?v=1745872832&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "8164510",
+    "name": "Kit Gamer Redragon, 1.200 DPI, ABNT2, Preto, BS-7092",
+    "price": 70.63,
+    "image": "https://cdn.dooca.store/559/products/1-681_495x495+fill_ffffff+crop_center.png?v=1741024829&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "7913222",
+    "name": "Kit Gamer Evolut, 1.600 DPI, ABNT2, LED, Preto, EG-54",
+    "price": 100.58,
+    "image": "https://cdn.dooca.store/559/products/1-626_495x495+fill_ffffff+crop_center.png?v=1737480565&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "7835621",
+    "name": "Kit Gamer Evolut, 1.600 DPI, ABNT2, RGB, Branco, EG-55",
+    "price": 95.57,
+    "image": "https://cdn.dooca.store/559/products/1-596_495x495+fill_ffffff+crop_center.png?v=1736191678&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "7812449",
+    "name": "Kit Teclado e Mouse Akko, 1000 DPI, Membrana, ABNT2, Preto, AKP104 WL",
+    "price": 74.34,
+    "image": "https://cdn.dooca.store/559/products/1-581_495x495+fill_ffffff+crop_center.png?v=1735314093&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "7760098",
+    "name": "Kit Gamer Gamdias Hermes P1B, 3.200 DPI, Mecânico, EN, RGB, Preto",
+    "price": 161.62,
+    "image": "https://cdn.dooca.store/559/products/1-540_495x495+fill_ffffff+crop_center.png?v=1734114003&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "7617764",
+    "name": "Kit Gamer Gaming Master KM52, MOA8, FX-X2218, 1.600 DPI, Semi Mecânico, ABNT2, LED, Branco, B2KMW5228U2CB2X",
+    "price": 35.69,
+    "image": "https://cdn.dooca.store/559/products/1-491_495x495+fill_ffffff+crop_center.png?v=1732213711&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "7267779",
+    "name": "Kit Gamer KWG Aries M1 Lite, Mouse, Teclado, Headset, Mousepad",
+    "price": 129.31,
+    "image": "https://cdn.dooca.store/559/products/1-305_495x495+fill_ffffff+crop_center.png?v=1727196403&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "6569552",
+    "name": "Kit Gamer Gaming Master KM52, MOA8, FX-X2218, 1.600 DPI, Semi Mecânico, ABNT2, LED, Preto, B3KM5228U11CB1X",
+    "price": 51.88,
+    "image": "https://cdn.dooca.store/559/products/1-75_495x495+fill_ffffff+crop_center.png?v=1717525962&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "6478465",
+    "name": "Combo Gamer BRX 4 Em 1, Teclado, Mouse, Headset e Mousepad, CB-G059",
+    "price": 80.3,
+    "image": "https://cdn.dooca.store/559/products/jf0qbi4ioyjgmh6d75ppx7ts8rw7zacpdp4c_495x495+fill_ffffff+crop_center.jpg?v=1715963599&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "6478463",
+    "name": "Combo Gamer TGT Ariete 4x1, Rainbow, Teclado ABNT, Mouse 1600DPI, Mousepad, Headset Drivers 40mm, TGT-ART-RBW01",
+    "price": 85.53,
+    "image": "https://cdn.dooca.store/559/products/of8j2ncyjgpzkfdywr1najjkczo7div7ms3y_495x495+fill_ffffff+crop_center.jpeg?v=1715963592&webp=0",
+    "category_slug": "kit-mouse-teclado",
+    "category_name": "Kit Mouse e Teclado",
+    "categories": [
+      "kit-mouse-teclado"
+    ]
+  },
+  {
+    "id": "9987320",
+    "name": "Microfone Fifine SFM2, USB, RGB, Condensador, Preto, SFM2",
+    "price": 79.84,
+    "image": "https://cdn.dooca.store/559/products/gytfaed9b9lsz6kgb6vovlpjjmqrwue1bbo3_495x495+fill_ffffff+crop_center.jpg?v=1771879007&webp=0",
+    "category_slug": "microfones",
+    "category_name": "Microfones",
+    "categories": [
+      "microfones"
+    ]
+  },
+  {
+    "id": "8840615",
+    "name": "Microfone Gamer Redragon Fenris C/Pop Filter, RGB, Condensador, Com Shock Mount, USB-C, Preto, GM301",
+    "price": 287.31,
+    "image": "https://cdn.dooca.store/559/products/1-967_495x495+fill_ffffff+crop_center.png?v=1750193379&webp=0",
+    "category_slug": "microfones",
+    "category_name": "Microfones",
+    "categories": [
+      "microfones"
+    ]
+  },
+  {
+    "id": "7457036",
+    "name": "Microfone Gamer Streamer Redragon Blazar C/ Tripé, USB, Black, GM300",
+    "price": 241.11,
+    "image": "https://cdn.dooca.store/559/products/1-404_495x495+fill_ffffff+crop_center.png?v=1729799231&webp=0",
+    "category_slug": "microfones",
+    "category_name": "Microfones",
+    "categories": [
+      "microfones"
+    ]
+  },
+  {
+    "id": "8840769",
+    "name": "Stream Deck Redragon Streamcraft SS550, 15 Teclas, IPS, USB-C, Preto, SS-550",
+    "price": 491.0,
+    "image": "https://cdn.dooca.store/559/products/1-968_495x495+fill_ffffff+crop_center.png?v=1750194093&webp=0",
+    "category_slug": "controles-e-volantes",
+    "category_name": "Controles e Volantes",
+    "categories": [
+      "controles-e-volantes"
+    ]
+  },
+  {
+    "id": "8839019",
+    "name": "Controle Gamer Kalkan Tyr, RGB, Bluetooth, PC, Android, iOS, Switch, Preto, KLK00004",
+    "price": 127.25,
+    "image": "https://cdn.dooca.store/559/products/1-963_495x495+fill_ffffff+crop_center.png?v=1750188378&webp=0",
+    "category_slug": "controles-e-volantes",
+    "category_name": "Controles e Volantes",
+    "categories": [
+      "controles-e-volantes"
+    ]
+  },
+  {
+    "id": "8838875",
+    "name": "Volante Kalkan G500 ProRacing, Câmbio e Pedais, Force Feedback, 270°/900°, Preto, KLK00032",
+    "price": 962.76,
+    "image": "https://cdn.dooca.store/559/products/1-962_495x495+fill_ffffff+crop_center.png?v=1750187772&webp=0",
+    "category_slug": "controles-e-volantes",
+    "category_name": "Controles e Volantes",
+    "categories": [
+      "controles-e-volantes"
+    ]
+  },
+  {
+    "id": "5755356",
+    "name": "Console Valve Steam Deck LCD, 64GB - V004281-30",
+    "price": 2483.5,
+    "image": "https://cdn.dooca.store/559/products/1-16_495x495+fill_ffffff+crop_center.jpg?v=1706719438&webp=0",
+    "category_slug": "consoles",
+    "category_name": "Consoles",
+    "categories": [
+      "consoles"
+    ]
+  },
+  {
+    "id": "8674320",
+    "name": "Kit Fan Lian Li UNI FAN SL Wireless, 3 Fans, 120mm, ARGB, Branco, UF-SL120-WLS-3W",
+    "price": 490.5,
+    "image": "https://cdn.dooca.store/559/products/1-909_495x495+fill_ffffff+crop_center.png?v=1748026889&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "7505245",
+    "name": "Fan Ryvel Snowy, ARGB, 120mm, Branco, RY-FN-SW-WT-5V",
+    "price": 15.25,
+    "image": "https://cdn.dooca.store/559/products/1-452_495x495+fill_ffffff+crop_center.png?v=1730407555&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "10371697",
+    "name": "Water Cooler Cooler Master NEX 360 Black, 360mm, ARGB, Preto, MLX-D36M-A18PA-R1",
+    "price": 458.95,
+    "image": "https://cdn.dooca.store/559/products/1-ex6ie_495x495+fill_ffffff+crop_center.png?v=1781713080&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "9427812",
+    "name": "Air Cooler Hawin VC-120, Preto, 120mm, AMD, Intel, HWN-VC120-BK",
+    "price": 40.99,
+    "image": "https://cdn.dooca.store/559/products/1-1030_495x495+fill_ffffff+crop_center.png?v=1759857935&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "9389383",
+    "name": "SSD SanDisk Plus, 500GB, NVMe, M.2 2280, PCIe 3.0, 2.400 MB/s, SDSSDA3N-500G-G26",
+    "price": 244.21,
+    "image": "https://cdn.dooca.store/559/products/1-1016_495x495+fill_ffffff+crop_center.png?v=1759258346&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "9378293",
+    "name": "Air Cooler REVENGER, Preto, RGB, 120mm, AMD, Intel, G-VR346",
+    "price": 40.01,
+    "image": "https://cdn.dooca.store/559/products/1-1015_495x495+fill_ffffff+crop_center.png?v=1759255022&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "9201813",
+    "name": "Air Cooler Thermaltake UX100, Preto, ARGB, 120mm, AMD, Intel, CL-P064-AL12SW-A",
+    "price": 88.3,
+    "image": "https://cdn.dooca.store/559/products/1-991_495x495+fill_ffffff+crop_center.png?v=1756328323&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8998996",
+    "name": "Kit Fan Gaming Master INFINITE, 3 Fans, 120mm, ARGB, Preto, AATA",
+    "price": 123.82,
+    "image": "https://cdn.dooca.store/559/products/1-983_495x495+fill_ffffff+crop_center.png?v=1752843873&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8793026",
+    "name": "Air Cooler Gamdias Boreas E1, Preto, 120mm, AMD, Intel, E1-410 MONO",
+    "price": 70.19,
+    "image": "https://cdn.dooca.store/559/products/1-954_495x495+fill_ffffff+crop_center.png?v=1749580907&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8703800",
+    "name": "Fan Lian Li UNI FAN TL Wireless LCD, 120mm, ARGB, Preto, 12TLLCD1W1W",
+    "price": 172.2,
+    "image": "https://cdn.dooca.store/559/products/1-921_495x495+fill_ffffff+crop_center.png?v=1748291865&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8674974",
+    "name": "Fan Lian Li UNI FAN SL Wireless Reverse Blade, 120mm, ARGB, Branco, UF-RS-SL120-WLS-1W",
+    "price": 166.28,
+    "image": "https://cdn.dooca.store/559/products/1-913_495x495+fill_ffffff+crop_center.png?v=1748029751&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8674827",
+    "name": "Fan Lian Li UNI FAN SL Wireless Reverse Blade, 120mm, ARGB, Preto, 12RSL1W1B BLACK",
+    "price": 166.28,
+    "image": "https://cdn.dooca.store/559/products/1-912_495x495+fill_ffffff+crop_center.png?v=1748029344&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8674518",
+    "name": "Fan Lian Li UNI FAN SL Wireless, 120mm, ARGB, Preto, UF-SL120-WLS-1B",
+    "price": 166.28,
+    "image": "https://cdn.dooca.store/559/products/1-911_495x495+fill_ffffff+crop_center.png?v=1748028092&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8674403",
+    "name": "Kit Fan Lian Li UNI FAN SL Wireless Reverse Blade, 3 Fans, 120mm, ARGB, Preto, UF-RS-SL120-WLS-3B",
+    "price": 563.81,
+    "image": "https://cdn.dooca.store/559/products/1-910_495x495+fill_ffffff+crop_center.png?v=1748027508&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8673325",
+    "name": "Kit Fan Lian Li UNI FAN SL Wireless, 3 Fans, 120mm, ARGB, Preto, UF-SL120-WLS-3B",
+    "price": 563.81,
+    "image": "https://cdn.dooca.store/559/products/1-907_495x495+fill_ffffff+crop_center.png?v=1748023618&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8663746",
+    "name": "Fan Lian Li UNI FAN SL Wireless LCD Reverse Blade, 120mm, ARGB, Branco, UF-RS-SL120-WLSLCD-1W",
+    "price": 271.58,
+    "image": "https://cdn.dooca.store/559/products/1-906_495x495+fill_ffffff+crop_center.png?v=1747947325&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8663382",
+    "name": "Kit Fan Lian Li UNI FAN SL Wireless LCD, 3 Fans, 120mm, ARGB, Branco, UF-SL120-WLSLCD-3W",
+    "price": 1323.71,
+    "image": "https://cdn.dooca.store/559/products/1-905_495x495+fill_ffffff+crop_center.png?v=1747945211&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8663055",
+    "name": "Fan Lian Li UNI FAN SL Wireless LCD, 120mm, ARGB, Preto, UF-SL120-WLSLCD-1B",
+    "price": 271.58,
+    "image": "https://cdn.dooca.store/559/products/1-904_495x495+fill_ffffff+crop_center.png?v=1747944266&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8662463",
+    "name": "Kit Fan Lian Li UNI FAN SL Wireless LCD Reverse Blade, 3 Fans, 120mm, ARGB, Branco, UF-RS-SL120-WLSLCD-3W",
+    "price": 912.29,
+    "image": "https://cdn.dooca.store/559/products/1-903_495x495+fill_ffffff+crop_center.png?v=1747942780&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8662136",
+    "name": "Kit Fan Lian Li UNI FAN SL Wireless LCD Reverse Blade, 3 Fans, 120mm, ARGB, Preto, UF-RS-SL120-WLSLCD-3B",
+    "price": 875.74,
+    "image": "https://cdn.dooca.store/559/products/1-902_495x495+fill_ffffff+crop_center.png?v=1747942146&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8661924",
+    "name": "Kit Fan Lian Li UNI FAN SL Wireless LCD, 3 Fans, 120mm, ARGB, Branco, UF-SL120-WLSLCD-3W",
+    "price": 875.74,
+    "image": "https://cdn.dooca.store/559/products/1-901_495x495+fill_ffffff+crop_center.png?v=1747941461&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8661676",
+    "name": "Kit Fan Lian Li UNI FAN SL Wireless LCD, 3 Fans, 120mm, ARGB, Preto, 12SLLCD1W3B BLACK",
+    "price": 875.74,
+    "image": "https://cdn.dooca.store/559/products/1-900_495x495+fill_ffffff+crop_center.png?v=1747940715&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8660870",
+    "name": "Fan Lian Li UNI FAN SL Wireless, 120mm, ARGB, Branco, 12SL1W1W",
+    "price": 166.28,
+    "image": "https://cdn.dooca.store/559/products/1-898_495x495+fill_ffffff+crop_center.png?v=1747938396&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8660369",
+    "name": "Fan Lian Li UNI FAN TL Wireless LCD, 120mm, ARGB, Preto, 12TLLCD1W1B",
+    "price": 172.2,
+    "image": "https://cdn.dooca.store/559/products/1-899_495x495+fill_ffffff+crop_center.png?v=1747937847&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8660282",
+    "name": "Fan Lian Li UNI FAN TL Wireless Reverse Blade, 120mm, ARGB, Preto, 12RTL1W1B",
+    "price": 274.52,
+    "image": "https://cdn.dooca.store/559/products/1-897_495x495+fill_ffffff+crop_center.png?v=1747936240&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8660112",
+    "name": "Fan Lian Li UNI FAN TL Wireless Reverse Blade, 120mm, ARGB, Branco, 12RTL1W1W",
+    "price": 233.17,
+    "image": "https://cdn.dooca.store/559/products/1-896_495x495+fill_ffffff+crop_center.png?v=1747935768&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8659892",
+    "name": "Fan Lian Li UNI FAN TL Wireless LCD Reverse Blade, 120mm, ARGB, Preto, 12RTLLCD1W1B",
+    "price": 274.52,
+    "image": "https://cdn.dooca.store/559/products/1-895_495x495+fill_ffffff+crop_center.png?v=1747935021&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8659594",
+    "name": "Fan Lian Li UNI FAN TL Wireless LCD Reverse Blade, 120mm, ARGB, Branco, 12RTLLCD1W1W",
+    "price": 274.52,
+    "image": "https://cdn.dooca.store/559/products/1-451_495x495+fill_ffffff+crop_center.png?v=1747933638&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8652199",
+    "name": "Kit Fan Lian Li UNI FAN TL Wireless, 3 Fans, 120mm, ARGB, Branco, 12TL1W3W",
+    "price": 565.78,
+    "image": "https://cdn.dooca.store/559/products/1-892_495x495+fill_ffffff+crop_center.png?v=1747859489&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8652124",
+    "name": "Kit Fan Lian Li UNI FAN TL Wireless, 3 Fans, 120mm, ARGB, Preto, 12TL1W3B",
+    "price": 565.78,
+    "image": "https://cdn.dooca.store/559/products/1-891_495x495+fill_ffffff+crop_center.png?v=1747859128&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8652044",
+    "name": "Kit Fan Lian Li UNI FAN TL Wireless Reverse Blade, 3 Fans, 120mm, ARGB, Preto, 12RTL1W3B",
+    "price": 565.78,
+    "image": "https://cdn.dooca.store/559/products/1-890_495x495+fill_ffffff+crop_center.png?v=1747858667&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8651963",
+    "name": "Kit Fan Lian Li UNI FAN TL Wireless LCD, 3 Fans, 120mm, ARGB, Preto, 12TLLCD1W3B",
+    "price": 1145.17,
+    "image": "https://cdn.dooca.store/559/products/1-889_495x495+fill_ffffff+crop_center.png?v=1747858196&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8651702",
+    "name": "Kit Fan Lian Li UNI FAN TL Wireless LCD Reverse Blade, 3 Fans, 120mm, RGB, Branco, 12RTLLCD1W3W",
+    "price": 884.6,
+    "image": "https://cdn.dooca.store/559/products/1-888_495x495+fill_ffffff+crop_center.png?v=1747856991&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8651487",
+    "name": "Kit Fan Lian Li UNI FAN TL Wireless LCD, 3 Fans, 120mm, RGB, Branco, 12TLLCD1W3W",
+    "price": 884.6,
+    "image": "https://cdn.dooca.store/559/products/1-887_495x495+fill_ffffff+crop_center.png?v=1747855960&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8651340",
+    "name": "Fan Lian Li UNI FAN AL140 V2, 140mm, RGB, Branco, UF-AL140V2-1W",
+    "price": 183.02,
+    "image": "https://cdn.dooca.store/559/products/1-886_495x495+fill_ffffff+crop_center.png?v=1747855349&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8619082",
+    "name": "Kit Fan Gaming Master Infinity Nazca, 120mm, ARGB, 6 Pinos, Branco, AAVW",
+    "price": 100.26,
+    "image": "https://cdn.dooca.store/559/products/1-867_495x495+fill_ffffff+crop_center.png?v=1747333240&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8618726",
+    "name": "Kit Fan Gaming Master Infinity Nazca, 120mm, ARGB, 6 Pinos, Preto, AAVA",
+    "price": 99.15,
+    "image": "https://cdn.dooca.store/559/products/1-866_495x495+fill_ffffff+crop_center.png?v=1747332570&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8588593",
+    "name": "Fan Lian Li UNI FAN TL LCD, 140mm, ARGB, Branco, 14TLLCD1W",
+    "price": 347.35,
+    "image": "https://cdn.dooca.store/559/products/1-850_495x495+fill_ffffff+crop_center.png?v=1746820562&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8588414",
+    "name": "Kit Fan Lian Li UNI FAN AL120 V2, 3 Fans, 120mm, ARGB, Preto, UF-AL120V2-3B",
+    "price": 578.66,
+    "image": "https://cdn.dooca.store/559/products/1-849_495x495+fill_ffffff+crop_center.png?v=1746819126&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8588188",
+    "name": "Kit Fan Lian Li UNI FAN AL120 V2, 3 Fans, 120mm, ARGB, Branco, UF-AL120V2-3W",
+    "price": 578.66,
+    "image": "https://cdn.dooca.store/559/products/1-582_495x495+fill_ffffff+crop_center.png?v=1746818072&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8584139",
+    "name": "Fan Lian Li UNI FAN AL120 V2, 120mm, ARGB, Preto, UF-AL120V2-1B",
+    "price": 165.3,
+    "image": "https://cdn.dooca.store/559/products/1-847_495x495+fill_ffffff+crop_center.png?v=1746738427&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8584065",
+    "name": "Fan Lian Li UNI FAN AL120 V2, 120mm, ARGB, Branco, UF-AL120V2-1W",
+    "price": 156.46,
+    "image": "https://cdn.dooca.store/559/products/1-846_495x495+fill_ffffff+crop_center.png?v=1746737571&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8583960",
+    "name": "Kit Fan Lian Li UNI FAN P28, 3 Fans, 120mm, Preto, UF-P28-120-3B",
+    "price": 461.49,
+    "image": "https://cdn.dooca.store/559/products/1-845_495x495+fill_ffffff+crop_center.png?v=1746736477&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "8583904",
+    "name": "Fan Lian Li UNI FAN P28, 120mm, Branco, UF-P28-120-1W",
+    "price": 156.45,
+    "image": "https://cdn.dooca.store/559/products/1-844_495x495+fill_ffffff+crop_center.png?v=1746735796&webp=0",
+    "category_slug": "coolers",
+    "category_name": "Coolers",
+    "categories": [
+      "coolers"
+    ]
+  },
+  {
+    "id": "3288852",
+    "name": "Pilha Duracell 21/23, 2 Unidades, Alcalina, 12V, MN21/A23",
+    "price": 32.74,
+    "image": "https://cdn.dooca.store/559/products/1-1013_495x495+fill_ffffff+crop_center.png?v=1758831410&webp=0",
+    "category_slug": "eletronicos",
+    "category_name": "Eletr?nicos",
+    "categories": [
+      "eletronicos"
+    ]
+  },
+  {
+    "id": "4632827",
+    "name": "Ipad 9ª Geração Apple, 10.2 Polegadas, 64GB, Neural Engine, Chip A13, Wi-Fi, Space Gray, 2021 - MK2K3LL/A",
+    "price": 1655.67,
+    "image": "https://cdn.dooca.store/559/products/i4m8pjn6djeulzc3llwwsvyvpmqlorazbb13_495x495+fill_ffffff+crop_center.jpg?v=1688992807&webp=0",
+    "category_slug": "eletronicos",
+    "category_name": "Eletr?nicos",
+    "categories": [
+      "eletronicos"
+    ]
+  },
+  {
+    "id": "3123748",
+    "name": "Echo Dot 3A Geracao com Alexa, Amazon Smart Speaker Preto",
+    "price": 202.82,
+    "image": "https://cdn.dooca.store/559/products/wxjleb45wd0lxajsx7wx0riizmeonu9zwkso_495x495+fill_ffffff+crop_center.jpg?v=1657909588&webp=0",
+    "category_slug": "eletronicos",
+    "category_name": "Eletr?nicos",
+    "categories": [
+      "eletronicos"
+    ]
+  },
+  {
+    "id": "9366235",
+    "name": "Pilhas Elgin LR14, 2 Unidades, Tipo-C, 1.5V, 82156",
+    "price": 13.8,
+    "image": "https://cdn.dooca.store/559/products/1-1014_495x495+fill_ffffff+crop_center.png?v=1758911314&webp=0",
+    "category_slug": "eletronicos",
+    "category_name": "Eletr?nicos",
+    "categories": [
+      "eletronicos"
+    ]
+  },
+  {
+    "id": "7701544",
+    "name": "Kit 10 Unidades Bateria Alcalina Elgin R44 AG13, 1.5v, 60mAh, LR1154",
+    "price": 8278.34,
+    "image": "https://cdn.dooca.store/559/products/1-522_495x495+fill_ffffff+crop_center.png?v=1733333154&webp=0",
+    "category_slug": "eletronicos",
+    "category_name": "Eletr?nicos",
+    "categories": [
+      "eletronicos"
+    ]
+  },
+  {
+    "id": "7689848",
+    "name": "Pilha Panasonic CR123A¹ PHOTO LITHIUM, 3V, CR-123APA",
+    "price": 47.68,
+    "image": "https://cdn.dooca.store/559/products/1-521_495x495+fill_ffffff+crop_center.png?v=1733259759&webp=0",
+    "category_slug": "eletronicos",
+    "category_name": "Eletr?nicos",
+    "categories": [
+      "eletronicos"
+    ]
+  },
+  {
+    "id": "7457038",
+    "name": "Mesa Digitalizadora Xp-Pen Magic Drawing Pad 12 Display Preto Medio Usb-C, 9494G_US",
+    "price": 3620.74,
+    "image": "https://cdn.dooca.store/559/products/1-405_495x495+fill_ffffff+crop_center.png?v=1729799782&webp=0",
+    "category_slug": "eletronicos",
+    "category_name": "Eletr?nicos",
+    "categories": [
+      "eletronicos"
+    ]
+  },
+  {
+    "id": "7375683",
+    "name": "Estação de Solda Hikari, Analógica, 60W, 220V, HK-936A",
+    "price": 289.58,
+    "image": "https://cdn.dooca.store/559/products/1-357_495x495+fill_ffffff+crop_center.png?v=1728504583&webp=0",
+    "category_slug": "eletronicos",
+    "category_name": "Eletr?nicos",
+    "categories": [
+      "eletronicos"
+    ]
+  },
+  {
+    "id": "6646984",
+    "name": "Bateria de Lítio Elgin, 3V, CR2450",
+    "price": 18.9,
+    "image": "https://cdn.dooca.store/559/products/yqguhry0hfyijmefknesgvrlbx1wv1ii9mzq_495x495+fill_ffffff+crop_center.jpg?v=1718810921&webp=0",
+    "category_slug": "eletronicos",
+    "category_name": "Eletr?nicos",
+    "categories": [
+      "eletronicos"
+    ]
+  },
+  {
+    "id": "6479355",
+    "name": "Caixa de Som C3T3CH, Speaker 2.0, SP-303, BDDBFJGC-E",
+    "price": 25.1,
+    "image": "https://cdn.dooca.store/559/products/jaj8fpjubwowrh8chieyn7mmjaz1bglzsjc1_495x495+fill_ffffff+crop_center.jpg?v=1715966953&webp=0",
+    "category_slug": "eletronicos",
+    "category_name": "Eletr?nicos",
+    "categories": [
+      "eletronicos"
+    ]
+  },
+  {
+    "id": "6479339",
+    "name": "Webcam PCYES, Raza FHD-02, 1080p, GLN5J5KB-E",
+    "price": 124.09,
+    "image": "https://cdn.dooca.store/559/products/b9cyoaavfzoipbjejd0zxqz4mbpoetxen5w2_495x495+fill_ffffff+crop_center.jpg?v=1715966948&webp=0",
+    "category_slug": "eletronicos",
+    "category_name": "Eletr?nicos",
+    "categories": [
+      "eletronicos"
+    ]
+  },
+  {
+    "id": "4374907",
+    "name": "Macbook Apple Air 13\", Processador M1, (8GB RAM 256GB SSD) Cinza-espacial",
+    "price": 3410.02,
+    "image": "https://cdn.dooca.store/559/products/zvxjn0fh0m3q0sqdpkozofswygyq3shiqxeb_495x495+fill_ffffff+crop_center.jpg?v=1683747850&webp=0",
+    "category_slug": "notebook",
+    "category_name": "Notebook",
+    "categories": [
+      "notebook"
+    ]
+  },
+  {
+    "id": "3948958",
+    "name": "HD Externo ADATA 2TB,USB,Preto Externo HDD Slim - AHV320-2TU31-CBK",
+    "price": 292.23,
+    "image": "https://cdn.dooca.store/559/products/585-gallery-ba01_495x495+fill_ffffff+crop_center.png?v=1675432655&webp=0",
+    "category_slug": "hard-disk",
+    "category_name": "Hard Disk",
+    "categories": [
+      "hard-disk"
+    ]
+  },
+  {
+    "id": "3552509",
+    "name": "HD Externo Seagate Expansion, 1TB, USB, Preto - STKM1000400",
+    "price": 224.43,
+    "image": "https://cdn.dooca.store/559/products/ddl2bbixjrnvdadhkaciyu0vqwornpibtxxj_495x495+fill_ffffff+crop_center.jpg?v=1666889880&webp=0",
+    "category_slug": "hard-disk",
+    "category_name": "Hard Disk",
+    "categories": [
+      "hard-disk"
+    ]
+  },
+  {
+    "id": "2100796",
+    "name": "Hd Seagate Barracuda, 1Tb, 3.5, Sata - St1000Dm010",
+    "price": 264.62,
+    "image": "https://cdn.dooca.store/559/products/ni72rxrtpgzbmkfpp6g1ndkmqlw10sx15l5x_495x495+fill_ffffff+crop_center.jpg?v=1654091723&webp=0",
+    "category_slug": "hard-disk",
+    "category_name": "Hard Disk",
+    "categories": [
+      "hard-disk"
+    ]
+  },
+  {
+    "id": "2100776",
+    "name": "Hd Seagate Barracuda, 2Tb, 3.5, Sata - St2000Dm008",
+    "price": 257.84,
+    "image": "https://cdn.dooca.store/559/products/0khrw6n784liv2wthour8vpwzzeqchz947mr_495x495+fill_ffffff+crop_center.jpg?v=1654091717&webp=0",
+    "category_slug": "hard-disk",
+    "category_name": "Hard Disk",
+    "categories": [
+      "hard-disk"
+    ]
+  },
+  {
+    "id": "10390544",
+    "name": "HD Toshiba N300 Pro, 14TB, 3.5\", 7200RPM, SATA III 6GB/s, Cache 512MB, HDWG51EXZSTB",
+    "price": 2157.89,
+    "image": "https://cdn.dooca.store/559/products/a0216cdf-df36-414a-804b-eb189131201a-exhql_495x495+fill_ffffff+crop_center.png?v=1782307784&webp=0",
+    "category_slug": "hard-disk",
+    "category_name": "Hard Disk",
+    "categories": [
+      "hard-disk"
+    ]
+  },
+  {
+    "id": "10390429",
+    "name": "HD Toshiba N300 Pro, 22TB, 3.5\", 7200RPM, SATA III 6GB/s, Cache 512MB, HDWG62CXZSTB",
+    "price": 2976.74,
+    "image": "https://cdn.dooca.store/559/products/1-pndji_495x495+fill_ffffff+crop_center.png?v=1782306850&webp=0",
+    "category_slug": "hard-disk",
+    "category_name": "Hard Disk",
+    "categories": [
+      "hard-disk"
+    ]
+  },
+  {
+    "id": "6648098",
+    "name": "HD WD Purple Surveillance, 2TB, SATA III, 3.5'', 5400 RPM, WD22PURZ",
+    "price": 281.46,
+    "image": "https://cdn.dooca.store/559/products/1-139_495x495+fill_ffffff+crop_center.png?v=1718820079&webp=0",
+    "category_slug": "hard-disk",
+    "category_name": "Hard Disk",
+    "categories": [
+      "hard-disk"
+    ]
+  },
+  {
+    "id": "3750221",
+    "name": "Case para HD 2.5 Satellite AX-241 Sata USB 2.0 Preto (Ate 1TB)",
+    "price": 24.84,
+    "image": "https://cdn.dooca.store/559/products/qwxs0dxzgs01clqpejqxundbmk0s5ebp3pmz_495x495+fill_ffffff+crop_center.jpg?v=1670674665&webp=0",
+    "category_slug": "hard-disk",
+    "category_name": "Hard Disk",
+    "categories": [
+      "hard-disk"
+    ]
+  },
+  {
+    "id": "10400128",
+    "name": "Fita de Led Deluxe LUCE, RGB, 5m, Branco, 12vDC, LED-FITA-INT-LUCE-IP20-15WM-5M-RGB-12V",
+    "price": 75.28,
+    "image": "https://cdn.dooca.store/559/products/1-2mbkz_495x495+fill_ffffff+crop_center.png?v=1782733027&webp=0",
+    "category_slug": "fitas-led",
+    "category_name": "Fitas LED",
+    "categories": [
+      "fitas-led"
+    ]
+  },
+  {
+    "id": "9429240",
+    "name": "Fita de Led Elgato Light Strip, RGB, 2m, 10LAA9901",
+    "price": 231.79,
+    "image": "https://cdn.dooca.store/559/products/1-1033_495x495+fill_ffffff+crop_center.png?v=1759865308&webp=0",
+    "category_slug": "fitas-led",
+    "category_name": "Fitas LED",
+    "categories": [
+      "fitas-led"
+    ]
+  },
+  {
+    "id": "3312772",
+    "name": "Pasta Térmica Pcyes TZ2, 1.5G, Alto Desempenho, Cinza - PCYTZ2",
+    "price": 12.42,
+    "image": "https://cdn.dooca.store/559/products/gixu0egqrumnsv0vzihaporgs0d4ugqomqbc_495x495+fill_ffffff+crop_center.jpg?v=1663612196&webp=0",
+    "category_slug": "pasta-termica",
+    "category_name": "Pasta T?rmica",
+    "categories": [
+      "pasta-termica"
+    ]
+  },
+  {
+    "id": "8703489",
+    "name": "Pasta Térmica Cooler Master Ice Fusion V2, 40G, 5.0W/mK, RG-ICF-CWR3-GP",
+    "price": 105.27,
+    "image": "https://cdn.dooca.store/559/products/1-920_495x495+fill_ffffff+crop_center.png?v=1748289969&webp=0",
+    "category_slug": "pasta-termica",
+    "category_name": "Pasta T?rmica",
+    "categories": [
+      "pasta-termica"
+    ]
+  },
+  {
+    "id": "7952615",
+    "name": "Pasta Térmica Ryvel Artic, 5G, 7.5W/mK, RY-PT-A7-WT",
+    "price": 2.57,
+    "image": "https://cdn.dooca.store/559/products/1-651_495x495+fill_ffffff+crop_center.png?v=1738167743&webp=0",
+    "category_slug": "pasta-termica",
+    "category_name": "Pasta T?rmica",
+    "categories": [
+      "pasta-termica"
+    ]
+  },
+  {
+    "id": "7952614",
+    "name": "Pasta Térmica Ryvel Artic, 5G, 10.5W/mK, RY-PT-A10-WT",
+    "price": 2.57,
+    "image": "https://cdn.dooca.store/559/products/1-652_495x495+fill_ffffff+crop_center.png?v=1738167996&webp=0",
+    "category_slug": "pasta-termica",
+    "category_name": "Pasta T?rmica",
+    "categories": [
+      "pasta-termica"
+    ]
+  },
+  {
+    "id": "7506305",
+    "name": "Pasta Térmica Ryvel Artic, 5G, 14.3W/mK",
+    "price": 20.7,
+    "image": "https://cdn.dooca.store/559/products/1-454_495x495+fill_ffffff+crop_center.png?v=1730408223&webp=0",
+    "category_slug": "pasta-termica",
+    "category_name": "Pasta T?rmica",
+    "categories": [
+      "pasta-termica"
+    ]
+  }
+]

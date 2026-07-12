@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Administração | Enifler</title>
+  <link rel="stylesheet" href="assets/store.css">
+  <link rel="stylesheet" href="assets/admin.css">
+</head>
+<body class="admin-body">
+  <div id="admin-app">
+    <section class="admin-login" id="admin-login">
+      <form class="admin-login-card" id="admin-login-form">
+        <div class="admin-logo">ENIFLER<b>.</b> <span>ADMIN</span></div>
+        <h1>Área administrativa</h1>
+        <p>Entre para consultar clientes e pedidos.</p>
+        <label>E-mail administrativo<input name="email" type="email" autocomplete="username" required></label>
+        <label>Senha<input name="password" type="password" autocomplete="current-password" required></label>
+        <p class="admin-error" id="admin-login-error" aria-live="polite"></p>
+        <button class="btn" type="submit">ENTRAR NO PAINEL</button>
+      </form>
+    </section>
+
+    <div class="admin-shell hidden" id="admin-panel">
+      <aside class="admin-sidebar">
+        <a class="admin-logo" href="/admin">ENIFLER<b>.</b> <span>ADMIN</span></a>
+        <nav><a class="active" href="#pedidos">Clientes e pedidos</a><a href="#produtos">Preços dos produtos</a><a href="/pc-gamer.html">Ver loja</a></nav>
+        <button id="admin-logout" type="button">Sair do painel</button>
+      </aside>
+      <main class="admin-main">
+        <header class="admin-header">
+          <div><p>GESTÃO</p><h1>Clientes e pedidos</h1></div>
+          <button class="refresh-button" id="refresh-admin" type="button">↻ Atualizar</button>
+        </header>
+        <section class="admin-stats" aria-label="Resumo">
+          <article><span>Clientes compradores</span><strong id="stat-customers">0</strong></article>
+          <article><span>Pedidos</span><strong id="stat-orders">0</strong></article>
+          <article><span>Aguardando PIX</span><strong id="stat-pending">0</strong></article>
+          <article><span>Total recebido</span><strong id="stat-received">R$ 0,00</strong></article>
+        </section>
+        <section class="admin-content" id="pedidos">
+          <div class="admin-tools">
+            <div><h2>Hist?rico de compradores</h2><p>Informa??es preenchidas no cadastro e pagamento, sem endere?os.</p></div>
+            <div class="admin-tool-actions">
+              <input id="admin-search" type="search" placeholder="Buscar nome, e-mail, CPF ou pedido">
+              <button class="export-button" id="export-customers" type="button">Exportar lista</button>
+              <button class="clear-records-button" id="clear-customers" type="button">Limpar registros</button>
+            </div>
+          </div>
+          <div class="admin-table-wrap">
+            <table class="admin-table">
+              <thead><tr><th>Cliente</th><th>Documento</th><th>Email</th><th>DDD</th><th>Celular</th><th>Pedido</th><th>Pagamento</th><th>Status</th><th></th></tr></thead>
+              <tbody id="orders-body"></tbody>
+            </table>
+            <div class="admin-empty hidden" id="admin-empty"><span>◎</span><h3>Nenhuma compra encontrada</h3><p>Os pedidos aparecerão aqui assim que um PIX for gerado.</p></div>
+          </div>
+        </section>
+        <section class="admin-content product-management" id="produtos">
+          <div class="admin-tools">
+            <div><h2>Preços e descontos</h2><p>Altere o preço real ou aplique descontos internos e promocionais.</p></div>
+          </div>
+          <div class="discount-legend">
+            <div><span class="legend-dot internal"></span><p><strong>Desconto interno</strong> reduz o preço real e não mostra comparação na loja.</p></div>
+            <div><span class="legend-dot promo"></span><p><strong>Promoção visível</strong> mostra o preço real riscado e o novo valor ao cliente.</p></div>
+          </div>
+          <div class="product-admin-list" id="product-admin-list"></div>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <div class="admin-detail-modal hidden" id="order-detail" aria-hidden="true">
+    <div class="admin-detail-backdrop" data-close-detail></div>
+    <section class="admin-detail-card" role="dialog" aria-modal="true" aria-labelledby="detail-title">
+      <button class="modal-close" type="button" data-close-detail aria-label="Fechar">×</button>
+      <p class="detail-eyebrow">DETALHES DO PEDIDO</p>
+      <h2 id="detail-title"></h2>
+      <div id="detail-content"></div>
+    </section>
+  </div>
+  <div class="toast" role="status" aria-live="polite"></div>
+  <script src="assets/admin.js?v=20260706-export-responsive"></script>
+</body>
+</html>

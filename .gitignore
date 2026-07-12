@@ -1,0 +1,9 @@
+.env
+node_modules/
+__pycache__/
+*.pyc
+
+# Banco SQLite local: não subir para o Git/Vercel.
+data/*
+!data/
+!data/old-products.json

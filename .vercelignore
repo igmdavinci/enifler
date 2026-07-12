@@ -1,0 +1,12 @@
+.env
+node_modules
+data/enifler.db
+__pycache__
+*.pyc
+.venv
+venv
+.DS_Store
+enifler/hts-cache
+enifler/cookies.txt
+enifler/hts-log.txt
+enifler.whtt

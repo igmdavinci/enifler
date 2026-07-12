@@ -1,0 +1,26 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": null,
+  "installCommand": "",
+  "outputDirectory": "enifler/www.enifler.com.br",
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/pc-gamer.html"
+    },
+    {
+      "source": "/admin",
+      "destination": "/admin.html"
+    },
+    {
+      "source": "/api/:path*",
+      "destination": "/api?__enifler_path=:path*"
+    }
+  ],
+  "functions": {
+    "api/**/*.py": {
+      "excludeFiles": "{node_modules/**,data/enifler.db,__pycache__/**,**/__pycache__/**,**/*.pyc,enifler/hts-cache/**,enifler/cookies.txt,enifler/hts-log.txt,enifler.whtt}"
+    }
+  }
+}
