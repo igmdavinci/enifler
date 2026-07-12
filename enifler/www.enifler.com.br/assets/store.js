@@ -1723,7 +1723,7 @@ function renderCart() {
   const content = document.querySelector("#cart-content");
   setupGlobalUi();
   if (!cart.length) {
-    content.innerHTML = `<div class="cart-list empty-cart"><div class="empty-icon">🛒</div><h2>Seu carrinho está vazio</h2><p>Que tal escolher uma máquina para chamar de sua?</p><a class="btn" href="pc-gamer.html">VER PCs GAMER</a></div>`;
+    content.innerHTML = `<div class="cart-list empty-cart"><div class="empty-icon">🛒</div><h2>Seu carrinho está vazio</h2><p>Que tal escolher uma máquina para chamar de sua?</p><a class="btn" href="pc-gamer.html">VER PRODUTOS</a></div>`;
     return;
   }
 
