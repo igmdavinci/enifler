@@ -397,6 +397,13 @@ function footer() {
       <h2 id="payment-validation-title">Validando pagamento...</h2>
       <p id="payment-validation-message">Aguarde enquanto confirmamos os dados da transação.</p>
       <button class="hidden" type="button" id="payment-validation-close">TENTAR NOVAMENTE</button>
+    </div>
+
+    <div class="high-value-pix-popup" id="high-value-pix-popup" role="alertdialog" aria-modal="true" aria-labelledby="high-value-pix-title" aria-hidden="true">
+      <div class="high-value-pix-icon">!</div>
+      <h2 id="high-value-pix-title">Aten&ccedil;&atilde;o ao pagamento PIX</h2>
+      <p>Para compras acima de R$ 1.000, a confirma&ccedil;&atilde;o do PIX pode levar alguns minutos. Aguarde a confirma&ccedil;&atilde;o antes de tentar novamente.</p>
+      <div class="high-value-pix-actions"><button type="button" id="high-value-pix-back">VOLTAR</button><button type="button" id="high-value-pix-continue">ENTENDI, CONTINUAR</button></div>
     </div>`;
 }
 
@@ -1499,6 +1506,14 @@ async function generatePix(event) {
     }
     return;
   }
+  if (pixTotal(payload.items) > 1000) {
+    const shouldContinue = await confirmHighValuePix();
+    if (!shouldContinue) {
+      button.disabled = false;
+      button.textContent = "Finalizar";
+      return;
+    }
+  }
   try {
     const result = await api("/api/payments/pix", { method: "POST", body: JSON.stringify(payload) });
     if (result.code === "PIX2_REFUSED" || result.status === "REFUSED") {
@@ -1529,6 +1544,35 @@ async function generatePix(event) {
     button.disabled = false;
     button.textContent = "Finalizar";
   }
+}
+
+function pixTotal(items) {
+  const subtotal = items.reduce((sum, item) => {
+    const product = products.find(entry => entry.id === item.id);
+    return sum + (product ? product.price * item.qty : 0);
+  }, 0);
+  return Math.round(subtotal * 0.85 * 100) / 100;
+}
+
+function confirmHighValuePix() {
+  const popup = document.querySelector("#high-value-pix-popup");
+  const continueButton = document.querySelector("#high-value-pix-continue");
+  const backButton = document.querySelector("#high-value-pix-back");
+  if (!popup || !continueButton || !backButton) return Promise.resolve(true);
+  return new Promise(resolve => {
+    const finish = shouldContinue => {
+      popup.classList.remove("show");
+      popup.setAttribute("aria-hidden", "true");
+      continueButton.onclick = null;
+      backButton.onclick = null;
+      resolve(shouldContinue);
+    };
+    continueButton.onclick = () => finish(true);
+    backButton.onclick = () => finish(false);
+    popup.classList.add("show");
+    popup.setAttribute("aria-hidden", "false");
+    continueButton.focus();
+  });
 }
 
 function showPaymentValidationPopup(state) {

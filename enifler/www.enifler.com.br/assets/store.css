@@ -360,6 +360,19 @@ h1 { max-width: 760px; margin: 0; font-size: clamp(38px, 6vw, 68px); line-height
   padding: 11px 22px; border: 0; border-radius: 8px; cursor: pointer;
   color: white; background: var(--orange); font-weight: 850;
 }
+.high-value-pix-popup {
+  position: fixed; top: 50%; left: 50%; z-index: 215; width: min(430px, calc(100% - 32px));
+  padding: 32px 28px; border: 1px solid #edb52e; border-radius: 18px; color: #4d3800;
+  background: #fff7d6; box-shadow: 0 25px 80px rgba(95, 67, 0, .34); text-align: center;
+  transform: translate(-50%, -45%) scale(.94); opacity: 0; pointer-events: none; transition: .25s;
+}
+.high-value-pix-popup.show { transform: translate(-50%, -50%) scale(1); opacity: 1; pointer-events: auto; }
+.high-value-pix-icon { width: 58px; height: 58px; display: grid; place-items: center; margin: 0 auto 17px; border-radius: 50%; color: #755000; background: #ffd666; font-size: 37px; font-weight: 900; }
+.high-value-pix-popup h2 { margin: 0 0 10px; color: #5d4200; font-size: 23px; }
+.high-value-pix-popup p { margin: 0; color: #705517; line-height: 1.5; }
+.high-value-pix-actions { display: flex; justify-content: center; gap: 10px; margin-top: 24px; }
+.high-value-pix-actions button { padding: 11px 14px; border: 1px solid #c59416; border-radius: 8px; cursor: pointer; color: #674800; background: #fff2b6; font-size: 12px; font-weight: 850; }
+.high-value-pix-actions button:last-child { border-color: #c68000; color: #fff; background: #dd9200; }
 @keyframes validation-spin { to { transform: rotate(360deg); } }
 
 .profile-page { min-height: 70vh; padding: 44px 0 80px; background: var(--surface); }
