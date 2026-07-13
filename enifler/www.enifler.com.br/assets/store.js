@@ -1531,9 +1531,7 @@ async function generatePix(event) {
     document.querySelector("#pix-code").value = result.pix.code;
     document.querySelector("#order-id").textContent = `Pedido ${result.orderId}`;
     const qr = document.querySelector("#qr-wrapper");
-    qr.innerHTML = result.pix.image
-      ? `<img src="${result.pix.image}" alt="QR Code PIX">`
-      : `<div class="qr-placeholder">Use o código copia e cola no aplicativo do seu banco.</div>`;
+    renderPixQr(qr, result.pix.code, result.pix.image);
     startPaymentPolling(result.transactionId, result.orderId);
   } catch (error) {
     if (errorBox) {
@@ -1545,6 +1543,25 @@ async function generatePix(event) {
     button.disabled = false;
     button.textContent = "Finalizar";
   }
+}
+
+function renderPixQr(wrapper, pixCode, providerImage) {
+  if (!wrapper || !pixCode) return;
+  const image = new Image();
+  const fallback = providerImage || "";
+  image.alt = "QR Code PIX";
+  image.width = 220;
+  image.height = 220;
+  image.referrerPolicy = "no-referrer";
+  image.src = `https://api.qrserver.com/v1/create-qr-code/?size=220x220&format=svg&data=${encodeURIComponent(pixCode)}`;
+  image.onerror = () => {
+    if (fallback && image.src !== fallback) {
+      image.src = fallback;
+      return;
+    }
+    wrapper.innerHTML = `<div class="qr-placeholder">Use o código copia e cola no aplicativo do seu banco.</div>`;
+  };
+  wrapper.replaceChildren(image);
 }
 
 function pixTotal(items) {
