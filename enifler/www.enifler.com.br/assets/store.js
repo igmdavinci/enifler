@@ -404,7 +404,7 @@ function footer() {
       <h2 id="high-value-pix-title">Aten&ccedil;&atilde;o ao pagamento PIX</h2>
       <p>No momento estamos lidando com instabilidades com pagamentos PIX, 
       porfavor aguarde alguns minutos antes de tentar novamente ou escolha outra forma de pagamento.</p>
-      <div class="high-value-pix-actions"><button type="button" id="high-value-pix-back">VOLTAR</button><button type="button" id="high-value-pix-continue">ENTENDI, CONTINUAR</button></div>
+      <div class="high-value-pix-actions"><button type="button" id="high-value-pix-back">VOLTAR</button></div>
     </div>`;
 }
 
