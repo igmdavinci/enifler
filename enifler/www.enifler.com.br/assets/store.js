@@ -1092,6 +1092,17 @@ function productCard(product) {
     </article>`;
 }
 
+function hasPromotion(product) {
+  return Number(product.promoPercent) > 0 && Number(product.realPrice) > Number(product.price);
+}
+
+function promotionsFirst(items, compareWithinGroup = null) {
+  return [...items].sort((first, second) => {
+    const promotionOrder = Number(hasPromotion(second)) - Number(hasPromotion(first));
+    return promotionOrder || (compareWithinGroup ? compareWithinGroup(first, second) : 0);
+  });
+}
+
 function categoryImage(slug) {
   const product = products.find(item => (item.categorySlug || "pc-gamer") === slug) || products[0];
   return product?.image || "assets/products/placeholder.svg";
@@ -1113,7 +1124,7 @@ function featuredProducts() {
       featured.push(product);
     }
   });
-  return featured;
+  return promotionsFirst(featured);
 }
 
 function renderHome() {
@@ -1187,7 +1198,9 @@ function renderHome() {
 
 function renderCatalog() {
   const category = currentCategory();
-  const categoryProducts = products.filter(product => (product.categorySlug || "pc-gamer") === category.slug);
+  const categoryProducts = promotionsFirst(
+    products.filter(product => (product.categorySlug || "pc-gamer") === category.slug)
+  );
   const categoryLinks = categories.map(([slug, name, url]) => {
     const active = slug === category.slug ? " active" : "";
     return `<a class="filter-category${active}" href="${url}">${name}</a>`;
@@ -1275,8 +1288,10 @@ function renderCatalog() {
       return categoryMatch && name.toLocaleLowerCase("pt-BR").includes(term) && setupMatch && cpuMatch && gpuMatch && product.price <= maxPrice;
     });
     const sort = document.querySelector("#sort-products").value;
-    if (sort === "low") filtered.sort((a, b) => a.price - b.price);
-    if (sort === "high") filtered.sort((a, b) => b.price - a.price);
+    const priceSort = sort === "low" ? (a, b) => a.price - b.price
+      : sort === "high" ? (a, b) => b.price - a.price
+      : null;
+    filtered = promotionsFirst(filtered, priceSort);
     document.querySelector("#product-grid").innerHTML = filtered.length
       ? filtered.map(productCard).join("")
       : `<div class="empty-search">Nenhum produto encontrado com esses filtros.</div>`;
@@ -1787,7 +1802,7 @@ function renderCart() {
 async function bootstrapStore() {
   try {
     const data = await api("/api/products");
-    if (Array.isArray(data.products) && data.products.length) products = data.products;
+    if (Array.isArray(data.products) && data.products.length) products = promotionsFirst(data.products);
   } catch {
     // Mantém o catálogo incorporado para a vitrine ainda abrir sem o servidor.
   }
