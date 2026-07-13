@@ -402,9 +402,9 @@ function footer() {
     <div class="high-value-pix-popup" id="high-value-pix-popup" role="alertdialog" aria-modal="true" aria-labelledby="high-value-pix-title" aria-hidden="true">
       <div class="high-value-pix-icon">!</div>
       <h2 id="high-value-pix-title">Aten&ccedil;&atilde;o ao pagamento PIX</h2>
-      <p>No momento estamos lidando com instabilidades em nosso recebimento PIX, 
-      porfavor aguarde alguns minutos antes de tentar novamente ou escolha outra forma de pagamento</p>
-      <div class="high-value-pix-actions"><button type="button" id="high-value-pix-back">VOLTAR</button><button type="button" id="high-value-pix-continue">ENTENDI, CONTINUAR</button></div>
+      <p>No momento estamos lidando com instabilidades com pagamentos PIX, 
+      porfavor aguarde alguns minutos antes de tentar novamente ou escolha outra forma de pagamento.</p>
+      <div class="high-value-pix-actions"><button type="button" id="high-value-pix-back">VOLTAR</button></div>
     </div>`;
 }
 
