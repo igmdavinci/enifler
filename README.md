@@ -90,10 +90,11 @@ Na Vercel, configure o projeto com Framework Preset **Other** e use a raiz do re
 ENIFLER_DB_DRIVER=supabase
 SUPABASE_URL=https://SEU-PROJETO.supabase.co
 SUPABASE_SERVICE_ROLE_KEY=SUA_SERVICE_ROLE_KEY_AQUI
-PARADISE_API_KEY=sk_sua_chave_secreta_aqui
-PARADISE_BASE_URL=https://multi.paradisepags.com/api/v1
+SIGILOPAY_PUBLIC_KEY=SUA_CHAVE_PUBLICA_AQUI
+SIGILOPAY_SECRET_KEY=SUA_CHAVE_PRIVADA_AQUI
+SIGILOPAY_BASE_URL=https://app.sigilopay.com.br/api/v1
 PUBLIC_BASE_URL=https://www.seudominio.com.br
-PARADISE_WEBHOOK_TOKEN=CRIE_UM_TOKEN_ALEATORIO_E_SECRETO
+SIGILOPAY_WEBHOOK_TOKEN=CRIE_UM_TOKEN_ALEATORIO_E_SECRETO
 NTFY_SERVER=https://ntfy.sh
 NTFY_TOPIC=enifler-alertas-troque-por-um-nome-secreto
 NTFY_ACCESS_TOKEN=

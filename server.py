@@ -1,7 +1,7 @@
 """Servidor local da Enifler.
 
 Serve a loja, mantÃ©m usuÃ¡rios/pedidos em SQLite e atua como proxy seguro para
-a Paradise. A chave da API nunca e enviada ao navegador.
+a Sigilo Pay. As chaves da API nunca sao enviadas ao navegador.
 """
 
 from __future__ import annotations
@@ -32,10 +32,11 @@ DB_PATH = DATA_DIR / "enifler.db"
 DB_DRIVER = os.getenv("ENIFLER_DB_DRIVER", "sqlite").lower()
 SUPABASE_URL = os.getenv("SUPABASE_URL", "").rstrip("/")
 SUPABASE_SERVICE_ROLE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY", "")
-PARADISE_BASE_URL = os.getenv("PARADISE_BASE_URL", "https://multi.paradisepags.com/api/v1").rstrip("/")
-PARADISE_API_KEY = os.getenv("PARADISE_API_KEY", "")
+SIGILOPAY_BASE_URL = os.getenv("SIGILOPAY_BASE_URL", "https://app.sigilopay.com.br/api/v1").rstrip("/")
+SIGILOPAY_PUBLIC_KEY = os.getenv("SIGILOPAY_PUBLIC_KEY", "")
+SIGILOPAY_SECRET_KEY = os.getenv("SIGILOPAY_SECRET_KEY", "")
 PUBLIC_BASE_URL = os.getenv("PUBLIC_BASE_URL", "").rstrip("/")
-PARADISE_WEBHOOK_TOKEN = os.getenv("PARADISE_WEBHOOK_TOKEN", "")
+SIGILOPAY_WEBHOOK_TOKEN = os.getenv("SIGILOPAY_WEBHOOK_TOKEN", "")
 NTFY_SERVER = os.getenv("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
 NTFY_TOPIC = os.getenv("NTFY_TOPIC", "")
 NTFY_ACCESS_TOKEN = os.getenv("NTFY_ACCESS_TOKEN", "")
@@ -118,7 +119,8 @@ def refresh_config() -> None:
     futura por Supabase/Postgres sem mexer nas telas.
     """
 
-    global PARADISE_BASE_URL, PARADISE_API_KEY, PUBLIC_BASE_URL, PARADISE_WEBHOOK_TOKEN
+    global SIGILOPAY_BASE_URL, SIGILOPAY_PUBLIC_KEY, SIGILOPAY_SECRET_KEY
+    global PUBLIC_BASE_URL, SIGILOPAY_WEBHOOK_TOKEN
     global NTFY_SERVER, NTFY_TOPIC, NTFY_ACCESS_TOKEN, PORT, DATA_DIR, DB_PATH, DB_DRIVER
     global SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY
 
@@ -128,10 +130,11 @@ def refresh_config() -> None:
     DATA_DIR = resolve_local_path(os.getenv("ENIFLER_DATA_DIR", "data"))
     DB_PATH = resolve_local_path(os.getenv("ENIFLER_DB_PATH", str(DATA_DIR / "enifler.db")))
     DATA_DIR = DB_PATH.parent
-    PARADISE_BASE_URL = os.getenv("PARADISE_BASE_URL", PARADISE_BASE_URL).rstrip("/")
-    PARADISE_API_KEY = os.getenv("PARADISE_API_KEY", "")
+    SIGILOPAY_BASE_URL = os.getenv("SIGILOPAY_BASE_URL", SIGILOPAY_BASE_URL).rstrip("/")
+    SIGILOPAY_PUBLIC_KEY = os.getenv("SIGILOPAY_PUBLIC_KEY", "")
+    SIGILOPAY_SECRET_KEY = os.getenv("SIGILOPAY_SECRET_KEY", "")
     PUBLIC_BASE_URL = os.getenv("PUBLIC_BASE_URL", "").rstrip("/")
-    PARADISE_WEBHOOK_TOKEN = os.getenv("PARADISE_WEBHOOK_TOKEN", "")
+    SIGILOPAY_WEBHOOK_TOKEN = os.getenv("SIGILOPAY_WEBHOOK_TOKEN", "")
     NTFY_SERVER = os.getenv("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
     NTFY_TOPIC = os.getenv("NTFY_TOPIC", "")
     NTFY_ACCESS_TOKEN = os.getenv("NTFY_ACCESS_TOKEN", "")
@@ -1187,9 +1190,9 @@ class StoreHandler(SimpleHTTPRequestHandler):
                 HTTPStatus.CREATED,
             )
             return
-        if not PARADISE_API_KEY:
+        if not SIGILOPAY_PUBLIC_KEY or not SIGILOPAY_SECRET_KEY:
             self.send_json(
-                {"error": "Chave da API Paradise ainda nao configurada no arquivo .env.", "code": "PAYMENT_NOT_CONFIGURED"},
+                {"error": "Chaves da API Sigilo Pay ainda nao configuradas no arquivo .env.", "code": "PAYMENT_NOT_CONFIGURED"},
                 HTTPStatus.SERVICE_UNAVAILABLE,
             )
             return
@@ -1197,27 +1200,27 @@ class StoreHandler(SimpleHTTPRequestHandler):
         email = user["email"]
         phone = str(customer.get("phone") or address["phone"])
         request_body = {
-            "amount": int(round(total * 100)),
-            "description": ", ".join(item["name"] for item in items)[:255],
-            "reference": order_id,
-            "source": "api_externa",
-            "customer": {
+            "identifier": order_id,
+            "amount": total,
+            "client": {
                 "name": str(customer["name"]).strip(),
                 "email": email,
                 "phone": phone,
                 "document": re.sub(r"\D", "", str(customer["document"])),
             },
+            "products": items,
+            "metadata": {"provider": "Enifler", "orderId": order_id},
         }
         webhook_url = self.payment_webhook_url()
         if webhook_url:
-            request_body["postback_url"] = webhook_url
+            request_body["callbackUrl"] = webhook_url
         try:
-            response = self.paradise_request("/transaction.php", "POST", request_body)
+            response = self.sigilopay_request("/gateway/pix/receive", "POST", request_body)
         except RuntimeError as exc:
             self.send_json({"error": str(exc)}, HTTPStatus.BAD_GATEWAY)
             return
-        transaction_id = response.get("transaction_id")
-        if not transaction_id or not response.get("qr_code"):
+        transaction_id = response.get("transactionId")
+        if not transaction_id or not response.get("pix", {}).get("code"):
             self.send_json({"error": response.get("message") or "A operadora nao retornou um PIX valido."}, HTTPStatus.BAD_GATEWAY)
             return
         try:
@@ -1233,7 +1236,7 @@ class StoreHandler(SimpleHTTPRequestHandler):
                 "orderId": order_id,
                 "transactionId": str(transaction_id),
                 "status": self.normalize_payment_status(response.get("status")),
-                "pix": {"code": response["qr_code"], "image": response.get("qr_code_base64")},
+                "pix": {"code": response["pix"]["code"], "image": response["pix"].get("image")},
             },
             HTTPStatus.CREATED,
         )
@@ -1248,35 +1251,35 @@ class StoreHandler(SimpleHTTPRequestHandler):
             self.send_json({"error": "Pedido nÃ£o encontrado."}, HTTPStatus.NOT_FOUND)
             return
         try:
-            response = self.paradise_request(
-                f"/query.php?action=get_transaction&id={urllib.parse.quote(transaction_id)}", "GET"
+            response = self.sigilopay_request(
+                f"/gateway/transactions?id={urllib.parse.quote(transaction_id)}", "GET"
             )
         except RuntimeError as exc:
             self.send_json({"error": str(exc)}, HTTPStatus.BAD_GATEWAY)
             return
         status = self.normalize_payment_status(response.get("status"))
         try:
-            db_update_order_status(order["id"], status)
+            db_update_order_status(row_get(order, "id"), status)
         except RuntimeError as exc:
             self.send_json({"error": str(exc)}, HTTPStatus.BAD_GATEWAY)
             return
         if status == "COMPLETED" and row_get(order, "status") != "COMPLETED":
-            self.send_ntfy_notification("PIX pago", f"Pedido {order['id']} foi pago.")
-        self.send_json({"status": status, "payedAt": response.get("updated_at")})
+            self.send_ntfy_notification("PIX pago", f"Pedido {row_get(order, 'id')} foi pago.")
+        self.send_json({"status": status, "payedAt": response.get("payedAt")})
 
     def payment_webhook_url(self):
-        if not PUBLIC_BASE_URL or not PARADISE_WEBHOOK_TOKEN:
+        if not PUBLIC_BASE_URL or not SIGILOPAY_WEBHOOK_TOKEN:
             return None
-        token = urllib.parse.quote(PARADISE_WEBHOOK_TOKEN, safe="")
+        token = urllib.parse.quote(SIGILOPAY_WEBHOOK_TOKEN, safe="")
         return f"{PUBLIC_BASE_URL}/api/payments/webhook?token={token}"
 
     def payment_webhook(self, payload):
         query = urllib.parse.parse_qs(urllib.parse.urlparse(self.path).query)
         received_token = query.get("token", [""])[0]
-        if not PARADISE_WEBHOOK_TOKEN or not hmac.compare_digest(received_token, PARADISE_WEBHOOK_TOKEN):
+        if not SIGILOPAY_WEBHOOK_TOKEN or not hmac.compare_digest(received_token, SIGILOPAY_WEBHOOK_TOKEN):
             self.send_json({"error": "Webhook nao autorizado."}, HTTPStatus.UNAUTHORIZED)
             return
-        transaction_id = str(payload.get("transaction_id") or "").strip()
+        transaction_id = str(payload.get("transactionId") or payload.get("transaction_id") or "").strip()
         if not transaction_id:
             self.send_json({"error": "Webhook sem transaction_id."}, HTTPStatus.BAD_REQUEST)
             return
@@ -1321,22 +1324,28 @@ class StoreHandler(SimpleHTTPRequestHandler):
     def normalize_payment_status(status):
         return {
             "approved": "COMPLETED",
+            "paid": "COMPLETED",
+            "completed": "COMPLETED",
+            "ok": "PENDING",
             "pending": "PENDING",
             "processing": "PENDING",
             "under_review": "PENDING",
             "failed": "FAILED",
+            "rejected": "FAILED",
+            "canceled": "FAILED",
             "refunded": "REFUNDED",
             "chargeback": "CHARGED_BACK",
         }.get(str(status or "").lower(), str(status or "PENDING").upper())
 
-    def paradise_request(self, path, method, payload=None):
+    def sigilopay_request(self, path, method, payload=None):
         headers = {
-            "X-API-Key": PARADISE_API_KEY,
+            "x-public-key": SIGILOPAY_PUBLIC_KEY,
+            "x-secret-key": SIGILOPAY_SECRET_KEY,
             "Accept": "application/json",
             "Content-Type": "application/json",
         }
         data = json.dumps(payload).encode() if payload is not None else None
-        request = urllib.request.Request(f"{PARADISE_BASE_URL}{path}", data=data, headers=headers, method=method)
+        request = urllib.request.Request(f"{SIGILOPAY_BASE_URL}{path}", data=data, headers=headers, method=method)
         try:
             with urllib.request.urlopen(request, timeout=25) as response:
                 return json.loads(response.read())
