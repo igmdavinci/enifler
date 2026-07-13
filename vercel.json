@@ -4,14 +4,11 @@
   "buildCommand": null,
   "installCommand": "",
   "outputDirectory": "enifler/www.enifler.com.br",
+  "cleanUrls": true,
   "rewrites": [
     {
       "source": "/",
-      "destination": "/pc-gamer.html"
-    },
-    {
-      "source": "/admin",
-      "destination": "/admin.html"
+      "destination": "/pc-gamer"
     },
     {
       "source": "/api/:path*",
