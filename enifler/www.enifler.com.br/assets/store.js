@@ -404,7 +404,7 @@ function footer() {
       <h2 id="high-value-pix-title">Aten&ccedil;&atilde;o ao pagamento PIX</h2>
       <p>No momento estamos lidando com instabilidades com pagamentos PIX, 
       porfavor aguarde alguns minutos antes de tentar novamente ou escolha outra forma de pagamento.</p>
-      <div class="high-value-pix-actions"><button type="button" id="high-value-pix-back">VOLTAR</button></div>
+      <div class="high-value-pix-actions"><button type="button" id="high-value-pix-back">VOLTAR</button><button type="button" id="high-value-pix-continue">ENTENDI, CONTINUAR</button></div>
     </div>`;
 }
 
@@ -1559,7 +1559,7 @@ function confirmHighValuePix() {
   const popup = document.querySelector("#high-value-pix-popup");
   const continueButton = document.querySelector("#high-value-pix-continue");
   const backButton = document.querySelector("#high-value-pix-back");
-  if (!popup || !continueButton || !backButton) return Promise.resolve(true);
+
   return new Promise(resolve => {
     const finish = shouldContinue => {
       popup.classList.remove("show");
@@ -1568,8 +1568,10 @@ function confirmHighValuePix() {
       backButton.onclick = null;
       resolve(shouldContinue);
     };
+
     continueButton.onclick = () => finish(true);
     backButton.onclick = () => finish(false);
+
     popup.classList.add("show");
     popup.setAttribute("aria-hidden", "false");
     continueButton.focus();
