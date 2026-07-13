@@ -1199,6 +1199,8 @@ class StoreHandler(SimpleHTTPRequestHandler):
         order_id = f"ENF-{datetime.now():%Y%m%d}-{secrets.token_hex(5).upper()}"
         email = user["email"]
         phone = str(customer.get("phone") or address["phone"])
+        products_total = round(sum(item["price"] * item["quantity"] for item in items), 2)
+        pix_discount = round(max(0, products_total - total), 2)
         request_body = {
             "identifier": order_id,
             "amount": total,
@@ -1211,6 +1213,10 @@ class StoreHandler(SimpleHTTPRequestHandler):
             "products": items,
             "metadata": {"provider": "Enifler", "orderId": order_id},
         }
+        if pix_discount:
+            # A Sigilo Pay valida: produtos + taxas - desconto = amount.
+            # O checkout concede 15% de desconto adicional para pagamento PIX.
+            request_body["discount"] = pix_discount
         webhook_url = self.payment_webhook_url()
         if webhook_url:
             request_body["callbackUrl"] = webhook_url
